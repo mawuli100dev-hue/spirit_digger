@@ -1,0 +1,21 @@
+# Socle (notebooks 00-05) : tout tourne sur processeur, sans GPU
+pandas>=2.2
+pyarrow>=15
+matplotlib>=3.8
+jupyterlab>=4
+ipykernel
+jinja2            # mise en forme des tableaux (pandas Styler)
+
+# Collecte en direct (optionnel, notebook 01)
+feedparser>=6
+
+# Extraction d'entités (notebook 02)
+# puis : python -m spacy download en_core_web_sm
+spacy>=3.8
+
+# Graphe de relations (notebook 04)
+networkx>=3.3
+pyvis>=0.3
+
+# Détecteur de désinformation (notebook 05)
+scikit-learn>=1.5

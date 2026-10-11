@@ -1,0 +1,31 @@
+{
+  "emetteur": "SPIRIT DIGGER v1.0",
+  "destinataire": "GOD'S EYE v2.0",
+  "reference": "SD-20230606-Kakhovka",
+  "priorite": "IMMÉDIATE",
+  "cotation_source_texte": "B1",
+  "site": "Barrage et centrale hydroélectrique de Kakhovka",
+  "zone": {
+    "lat": 46.7781,
+    "lon": 33.37,
+    "rayon_km": 5
+  },
+  "acquisitions": {
+    "T0_reference": "2023-05-30",
+    "T1_post_evenement": "2023-06-07"
+  },
+  "scenario_gods_eye": "Scénario 2 · Évaluation des sinistres",
+  "classes_yolo_a_surveiller": [
+    "bridge",
+    "building",
+    "infrastructure-diverse",
+    "harbor"
+  ],
+  "question": "Confirmer la rupture du barrage et mesurer l'étendue des destructions en aval.",
+  "indices_textuels": [
+    "каховс (Kakhovka)",
+    "каховк (Kakhovka)",
+    "затопл (inondation)",
+    "плотин (barrage)"
+  ]
+}

@@ -1,0 +1,13 @@
+source,fiabilité,décision,rôle dans Spirit Digger,justification,lignes
+telegram_ru_ua,B,RETENU,"Théâtre UKRAINE : alerte précoce, recoupement multi-camps, guerre de l'information","12 chaînes identifiées, datées, camps opposés",386889
+iran_us_news,C,RETENU,"Théâtre GOLFE : inventaire NER, graphe de relations","médias identifiés mais 67 % sans date, collecte via Bing",2286
+hormuz,B,RETENU,Vérité terrain : valider les signaux textuels,compilation citant EIA / IEA / Lloyd's List,125
+misinfo_true,C,RETENU,Entraînement du détecteur de désinformation,fuites à nettoyer,34975
+misinfo_fake,C,RETENU,Entraînement du détecteur de désinformation,fuites à nettoyer,43642
+propagande_ru,C,RETENU,Entraînement : classe « propagande d'État »,"textes courts, à tronquer",7369
+welfake,C,TEST,Test hors échantillon (après dédoublonnage),66 % de recouvrement avec ISOT,72134
+rumeurs,C,BONUS,"Crédibilité des réseaux sociaux (PHEME : Charlie Hebdo, Ferguson)",étiquettes humaines,62445
+trending,D,CONTEXTE,Bruit de fond mondial,74 % de catégorie « Other »,6960
+reddit_geopol,D,CONTEXTE,Anecdotique (30 posts),fichier principal corrompu,30
+cyber_threats,E,ÉCARTÉ,-,"généré aléatoirement, IP impossibles",1100
+cyber_synth,E,ÉCARTÉ,-,"variables indépendantes, corrélation nulle",100000

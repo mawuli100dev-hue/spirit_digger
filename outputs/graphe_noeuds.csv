@@ -1,0 +1,387 @@
+entite,categorie,articles,communaute,intermediarite
+Iran,LIEU,1703,Donald Trump · Strait of Hormuz · IRGC,0.37398709765480126
+Israel,LIEU,838,Hezbollah · Benjamin Netanyahu · ballistic missile,0.04871953252184779
+United States,LIEU,1653,Donald Trump · Strait of Hormuz · IRGC,0.36927986757659026
+Natanz,SITE_STRATEGIQUE,52,IAEA · Natanz · Isfahan,1.2941341066341064e-05
+Donald Trump,PERSONNE,1035,Donald Trump · Strait of Hormuz · IRGC,0.07181896850644161
+Ali Khamenei,PERSONNE,192,Donald Trump · Strait of Hormuz · IRGC,0.003002068916203821
+Indonesia,LIEU,51,United Nations · European Union · Vladimir Putin,0.0008740055013072513
+Tel Aviv,LIEU,50,Hezbollah · Benjamin Netanyahu · ballistic missile,1.4644408922006324e-05
+Hossein Salami,PERSONNE,8,Hezbollah · Benjamin Netanyahu · ballistic missile,0.0
+IRGC,FORCE_ARMEE,257,Donald Trump · Strait of Hormuz · IRGC,0.005408961761951925
+Scotland,LIEU,26,United Nations · European Union · Vladimir Putin,0.00950192021940997
+United Kingdom,LIEU,300,United Nations · European Union · Vladimir Putin,0.047359253263206974
+Fordow,SITE_STRATEGIQUE,35,IAEA · Natanz · Isfahan,4.964983759626616e-05
+Jakarta,LIEU,50,Donald Trump · Strait of Hormuz · IRGC,6.112216275408345e-05
+Rafael Grossi,PERSONNE,13,IAEA · Natanz · Isfahan,2.7056277056277056e-06
+United Nations,ORGANISATION,151,United Nations · European Union · Vladimir Putin,0.0017871745364329414
+Wall Street Journal,ORGANISATION,14,Donald Trump · Strait of Hormuz · IRGC,0.0
+IAEA,ORGANISATION,73,IAEA · Natanz · Isfahan,0.0011562026550620925
+Isfahan,SITE_STRATEGIQUE,42,IAEA · Natanz · Isfahan,0.00021038530372945958
+UN Security Council,ORGANISATION,52,United Nations · European Union · Vladimir Putin,0.0020764130862488406
+IDF,FORCE_ARMEE,55,Hezbollah · Benjamin Netanyahu · ballistic missile,0.0012636060346600919
+Jerusalem,LIEU,34,Hezbollah · Benjamin Netanyahu · ballistic missile,5.630716562248266e-05
+ballistic missile,ARMEMENT,121,Hezbollah · Benjamin Netanyahu · ballistic missile,0.0013510157057761176
+drone,ARMEMENT,308,drone · US Navy · cruise missile,0.02024723778408195
+Iron Dome,ARMEMENT,14,Hezbollah · Benjamin Netanyahu · ballistic missile,0.0
+Anadolu,ORGANISATION,14,Marco Rubio · Abbas Araghchi · JD Vance,0.0
+Gaza,LIEU,100,Hezbollah · Benjamin Netanyahu · ballistic missile,0.002335648702232733
+West Bank,LIEU,26,Hezbollah · Benjamin Netanyahu · ballistic missile,5.6256423951229155e-05
+India,LIEU,150,Marco Rubio · Abbas Araghchi · JD Vance,0.012981819054606087
+Europe,LIEU,146,United Nations · European Union · Vladimir Putin,0.0008346168603605067
+Russia,LIEU,205,United Nations · European Union · Vladimir Putin,0.008379197026207841
+Red Sea,SITE_STRATEGIQUE,26,Hezbollah · Benjamin Netanyahu · ballistic missile,2.587070186863381e-05
+Strait of Hormuz,SITE_STRATEGIQUE,762,Donald Trump · Strait of Hormuz · IRGC,0.03996934103467743
+United Arab Emirates,LIEU,191,drone · US Navy · cruise missile,0.00716572866381556
+Houthis,FORCE_ARMEE,36,Hezbollah · Benjamin Netanyahu · ballistic missile,0.00014512366967679417
+Arabian Sea,LIEU,13,CENTCOM · tanker · oil tanker,0.00020499961348175626
+Gulf of Oman,SITE_STRATEGIQUE,54,CENTCOM · tanker · oil tanker,0.00047899501579123834
+Persian Gulf,SITE_STRATEGIQUE,99,Donald Trump · Strait of Hormuz · IRGC,0.00012705643864359883
+Oman,LIEU,130,CENTCOM · tanker · oil tanker,0.0054188300827207134
+China,LIEU,227,United Nations · European Union · Vladimir Putin,0.008147311325805531
+Japan,LIEU,60,United Nations · European Union · Vladimir Putin,0.0032960008391736528
+South Korea,LIEU,51,United Nations · European Union · Vladimir Putin,7.632648349488085e-05
+Saudi Arabia,LIEU,140,drone · US Navy · cruise missile,0.0003402235698883572
+Asia,LIEU,63,United Nations · European Union · Vladimir Putin,0.0031229401958643597
+Malaysia,LIEU,20,United Nations · European Union · Vladimir Putin,0.0001231188547522079
+Jordan,LIEU,47,drone · US Navy · cruise missile,4.373224047219673e-05
+Turkey,LIEU,83,drone · US Navy · cruise missile,0.006000438394874212
+IRNA,ORGANISATION,17,Donald Trump · Strait of Hormuz · IRGC,0.0
+White House,ORGANISATION,246,Donald Trump · Strait of Hormuz · IRGC,0.002133408796969502
+Marco Rubio,PERSONNE,124,Marco Rubio · Abbas Araghchi · JD Vance,0.0016582758461841634
+Pete Hegseth,PERSONNE,68,Donald Trump · Strait of Hormuz · IRGC,0.00034516033075788913
+Truth Social,LIEU,154,Donald Trump · Strait of Hormuz · IRGC,0.0003205677998287553
+Benjamin Netanyahu,PERSONNE,213,Hezbollah · Benjamin Netanyahu · ballistic missile,0.0023376491609774772
+B-2,ARMEMENT,16,Donald Trump · Strait of Hormuz · IRGC,0.0
+bunker buster,ARMEMENT,10,IAEA · Natanz · Isfahan,0.0
+Doha,LIEU,18,drone · US Navy · cruise missile,0.0
+Dubai,LIEU,37,drone · US Navy · cruise missile,0.0002532621288704766
+LNG,ORGANISATION,43,Marco Rubio · Abbas Araghchi · JD Vance,0.00013166325767786807
+House,ORGANISATION,20,Donald Trump · Strait of Hormuz · IRGC,0.0
+Parliament,ORGANISATION,26,Donald Trump · Strait of Hormuz · IRGC,0.0
+Prabowo Subianto,PERSONNE,8,Donald Trump · Strait of Hormuz · IRGC,0.0
+Israel Katz,PERSONNE,20,Hezbollah · Benjamin Netanyahu · ballistic missile,0.0
+Basij,FORCE_ARMEE,11,Donald Trump · Strait of Hormuz · IRGC,0.0
+Tasnim,PERSONNE,62,Donald Trump · Strait of Hormuz · IRGC,3.0760090188240804e-05
+Supreme National Security Council,ORGANISATION,22,Donald Trump · Strait of Hormuz · IRGC,2.7056277056277056e-06
+Palestine,LIEU,12,Hezbollah · Benjamin Netanyahu · ballistic missile,0.0
+Abbas Araghchi,PERSONNE,128,Marco Rubio · Abbas Araghchi · JD Vance,0.0009897920208131383
+Araghchi,LIEU,56,Marco Rubio · Abbas Araghchi · JD Vance,6.397097769380375e-05
+California,LIEU,32,Donald Trump · Strait of Hormuz · IRGC,0.0
+Operation Midnight Hammer,OPERATION,17,Donald Trump · Strait of Hormuz · IRGC,1.4655483405483407e-05
+Hezbollah,FORCE_ARMEE,238,Hezbollah · Benjamin Netanyahu · ballistic missile,0.004052506133133623
+Qatar,LIEU,174,drone · US Navy · cruise missile,0.001882724977645307
+Iran International,ORGANISATION,8,Donald Trump · Strait of Hormuz · IRGC,0.0
+Mossad,FORCE_ARMEE,18,Hezbollah · Benjamin Netanyahu · ballistic missile,1.2026275156527259e-05
+Masoud Pezeshkian,PERSONNE,61,Donald Trump · Strait of Hormuz · IRGC,7.624541613989667e-05
+France,LIEU,124,United Nations · European Union · Vladimir Putin,0.0015096820806560648
+Germany,LIEU,156,United Nations · European Union · Vladimir Putin,0.04281448726007454
+Foundation for Defense of Democracies,ORGANISATION,8,Donald Trump · Strait of Hormuz · IRGC,0.0
+F-35,ARMEMENT,8,drone · US Navy · cruise missile,0.0
+warship,NAVIRE,42,CENTCOM · tanker · oil tanker,0.00023220335651416175
+New York City,LIEU,11,Donald Trump · Strait of Hormuz · IRGC,0.0
+Antonio Guterres,PERSONNE,10,United Nations · European Union · Vladimir Putin,0.0
+Geneva,LIEU,24,Donald Trump · Strait of Hormuz · IRGC,1.803751803751804e-05
+My News,ORGANISATION,28,Donald Trump · Strait of Hormuz · IRGC,0.0
+Gulf,LIEU,288,drone · US Navy · cruise missile,0.0024189890632800113
+Abu Dhabi,LIEU,29,drone · US Navy · cruise missile,0.0008336490112030538
+West,LIEU,28,United Nations · European Union · Vladimir Putin,0.00028966858207929647
+Ali Larijani,PERSONNE,15,Donald Trump · Strait of Hormuz · IRGC,2.153228715728716e-05
+Ruhollah Khomeini,PERSONNE,32,Donald Trump · Strait of Hormuz · IRGC,1.3528138528138528e-06
+Emirati,LIEU,12,drone · US Navy · cruise missile,0.0
+Bahrain,LIEU,63,drone · US Navy · cruise missile,0.00012389641654304365
+US Navy,FORCE_ARMEE,39,drone · US Navy · cruise missile,0.00015197166291017997
+Moscow,LIEU,44,United Nations · European Union · Vladimir Putin,0.00017740233584761267
+Tomahawk,ARMEMENT,12,IAEA · Natanz · Isfahan,6.152082044939188e-05
+Iraq,LIEU,122,drone · US Navy · cruise missile,0.0012689388138157711
+Eyal Zamir,PERSONNE,9,Hezbollah · Benjamin Netanyahu · ballistic missile,0.0
+Kuwait,LIEU,96,drone · US Navy · cruise missile,4.085867592845653e-05
+Syria,LIEU,72,Hezbollah · Benjamin Netanyahu · ballistic missile,0.006459032426460172
+Ukraine,LIEU,125,United Nations · European Union · Vladimir Putin,0.00476987707847474
+Beirut,LIEU,76,Hezbollah · Benjamin Netanyahu · ballistic missile,0.0006962388475001368
+Afghanistan,LIEU,35,Marco Rubio · Abbas Araghchi · JD Vance,7.616539925168208e-05
+Pakistan,LIEU,268,Marco Rubio · Abbas Araghchi · JD Vance,0.012907838958064884
+Qom,LIEU,33,Donald Trump · Strait of Hormuz · IRGC,0.0
+Khamenei,PERSONNE,53,Donald Trump · Strait of Hormuz · IRGC,0.0005781974308760019
+CENTCOM,FORCE_ARMEE,154,CENTCOM · tanker · oil tanker,0.0032821500115632774
+NATO,FORCE_ARMEE,54,Marco Rubio · Abbas Araghchi · JD Vance,0.0010355399789107247
+Taiwan,LIEU,33,United Nations · European Union · Vladimir Putin,0.00026491324450015865
+RAF Fairford,ORGANISATION,9,CENTCOM · tanker · oil tanker,0.0
+Assembly of Experts,ORGANISATION,12,Donald Trump · Strait of Hormuz · IRGC,1.3528138528138528e-06
+Mojtaba Khamenei,PERSONNE,105,Donald Trump · Strait of Hormuz · IRGC,0.0005581595588217252
+Foreign Ministry,ORGANISATION,48,Marco Rubio · Abbas Araghchi · JD Vance,1.0660040531364058e-05
+oil tanker,NAVIRE,90,CENTCOM · tanker · oil tanker,0.000537775503399664
+Brazil,LIEU,35,United Nations · European Union · Vladimir Putin,0.0012652561852807634
+Mojtaba,LIEU,26,Donald Trump · Strait of Hormuz · IRGC,0.0
+Oval Office,ORGANISATION,25,Donald Trump · Strait of Hormuz · IRGC,0.0
+Fars,PERSONNE,11,Donald Trump · Strait of Hormuz · IRGC,0.0
+Pentagon,FORCE_ARMEE,75,Donald Trump · Strait of Hormuz · IRGC,4.7916872648175834e-05
+Middle Eastern,LIEU,14,Hezbollah · Benjamin Netanyahu · ballistic missile,0.0
+Strait,LIEU,75,Donald Trump · Strait of Hormuz · IRGC,0.00011326645336385595
+Keir Starmer,PERSONNE,63,United Nations · European Union · Vladimir Putin,0.0023047321861132393
+Mashhad,LIEU,41,Donald Trump · Strait of Hormuz · IRGC,0.0003745683879612448
+Mahmoud Ahmadinejad,PERSONNE,17,Donald Trump · Strait of Hormuz · IRGC,0.0
+London,LIEU,63,drone · US Navy · cruise missile,0.0001967614726837733
+Florida,LIEU,15,Donald Trump · Strait of Hormuz · IRGC,0.0
+Vladimir Putin,PERSONNE,44,United Nations · European Union · Vladimir Putin,0.0001418850574729284
+Lebanon,LIEU,327,Hezbollah · Benjamin Netanyahu · ballistic missile,0.032184473562311085
+Joseph Aoun,PERSONNE,10,Hezbollah · Benjamin Netanyahu · ballistic missile,0.0
+Sri Lanka,LIEU,14,Marco Rubio · Abbas Araghchi · JD Vance,0.0004112699653548375
+Beijing,LIEU,65,United Nations · European Union · Vladimir Putin,0.00011028376664314568
+Yemen,LIEU,47,Hezbollah · Benjamin Netanyahu · ballistic missile,0.0006846366665777257
+tanker,NAVIRE,119,CENTCOM · tanker · oil tanker,0.0009315153857566533
+Congress,ORGANISATION,51,Donald Trump · Strait of Hormuz · IRGC,0.0
+Armed Forces,ORGANISATION,8,Donald Trump · Strait of Hormuz · IRGC,0.0
+Shahed,ARMEMENT,9,drone · US Navy · cruise missile,0.0
+Dan Caine,PERSONNE,11,Donald Trump · Strait of Hormuz · IRGC,1.691017316017316e-05
+Diego Garcia,SITE_STRATEGIQUE,10,CENTCOM · tanker · oil tanker,4.25982634789453e-05
+Indian Ocean,LIEU,25,CENTCOM · tanker · oil tanker,6.123703211771396e-05
+North Korea,LIEU,20,United Nations · European Union · Vladimir Putin,4.735641777465085e-05
+Musandam,LIEU,16,CENTCOM · tanker · oil tanker,0.0
+Berlin,LIEU,41,United Nations · European Union · Vladimir Putin,0.0003542664196073289
+Paris,LIEU,20,United Nations · European Union · Vladimir Putin,0.0
+Dimona,LIEU,9,Hezbollah · Benjamin Netanyahu · ballistic missile,0.0
+Thailand,LIEU,16,United Nations · European Union · Vladimir Putin,5.5114214752696916e-05
+Imam Reza Shrine,LIEU,8,Donald Trump · Strait of Hormuz · IRGC,0.0
+Shehbaz Sharif,PERSONNE,56,Marco Rubio · Abbas Araghchi · JD Vance,0.0
+Hungary,LIEU,18,United Nations · European Union · Vladimir Putin,0.0006060901251080662
+Paraguay,ORGANISATION,10,United Nations · European Union · Vladimir Putin,0.00038373295994109674
+Viktor Orban,PERSONNE,8,United Nations · European Union · Vladimir Putin,0.0
+Islamabad,LIEU,87,Marco Rubio · Abbas Araghchi · JD Vance,0.002026426521566874
+JD Vance,PERSONNE,70,Marco Rubio · Abbas Araghchi · JD Vance,0.0004227852005870959
+Mohammad Bagher Ghalibaf,PERSONNE,65,Donald Trump · Strait of Hormuz · IRGC,0.00014230689295743724
+health ministry,ORGANISATION,19,Hezbollah · Benjamin Netanyahu · ballistic missile,0.0
+Karoline Leavitt,PERSONNE,16,Donald Trump · Strait of Hormuz · IRGC,0.0
+Gulf Arab,LIEU,15,Donald Trump · Strait of Hormuz · IRGC,0.0
+Cairo,LIEU,16,Marco Rubio · Abbas Araghchi · JD Vance,0.00016821990791266
+Michelle L. Price,PERSONNE,8,Marco Rubio · Abbas Araghchi · JD Vance,1.488095238095238e-05
+Fars News Agency,ORGANISATION,18,Donald Trump · Strait of Hormuz · IRGC,0.0
+destroyer,NAVIRE,20,CENTCOM · tanker · oil tanker,1.691017316017316e-06
+Italy,LIEU,38,United Nations · European Union · Vladimir Putin,0.0001023419541382556
+Singapore,LIEU,22,United Nations · European Union · Vladimir Putin,0.005376808298936223
+US Energy Information Administration,ORGANISATION,8,Donald Trump · Strait of Hormuz · IRGC,0.0
+Africa,LIEU,44,United Nations · European Union · Vladimir Putin,0.0021295002148552736
+Kuwaiti,LIEU,8,Hezbollah · Benjamin Netanyahu · ballistic missile,0.0
+sea mines,ARMEMENT,9,drone · US Navy · cruise missile,0.0
+Netherlands,LIEU,19,United Nations · European Union · Vladimir Putin,0.0008864852023354934
+Operation Epic Fury,OPERATION,42,Donald Trump · Strait of Hormuz · IRGC,0.00011748075350796642
+Olivia Wales,PERSONNE,9,Donald Trump · Strait of Hormuz · IRGC,0.0
+Senate,ORGANISATION,32,Donald Trump · Strait of Hormuz · IRGC,0.0
+U.N,ORGANISATION,13,Hezbollah · Benjamin Netanyahu · ballistic missile,0.00021685479173303834
+Xi Jinping,PERSONNE,40,United Nations · European Union · Vladimir Putin,1.691017316017316e-06
+MoU,ORGANISATION,11,Donald Trump · Strait of Hormuz · IRGC,0.0
+Joint Chiefs of Staff,ORGANISATION,11,Donald Trump · Strait of Hormuz · IRGC,0.00011555938693562579
+Esmaeil Baghaei,PERSONNE,69,Marco Rubio · Abbas Araghchi · JD Vance,0.00020179420747602568
+ISNA,ORGANISATION,24,Marco Rubio · Abbas Araghchi · JD Vance,2.7056277056277056e-06
+Kpler,PERSONNE,17,United Nations · European Union · Vladimir Putin,0.0
+Ministry of Foreign Affairs,ORGANISATION,17,Marco Rubio · Abbas Araghchi · JD Vance,0.0
+Riyadh,LIEU,9,Donald Trump · Strait of Hormuz · IRGC,0.0
+US Treasury,ORGANISATION,33,Treasury · Scott Bessent · US Treasury,0.00017782523362880502
+Scott Bessent,PERSONNE,25,Treasury · Scott Bessent · US Treasury,5.97492784992785e-05
+Treasury,ORGANISATION,43,Treasury · Scott Bessent · US Treasury,0.0002760491822991825
+Quds Force,FORCE_ARMEE,11,Donald Trump · Strait of Hormuz · IRGC,0.0
+Joe Biden,PERSONNE,38,Donald Trump · Strait of Hormuz · IRGC,0.00013547494472819139
+Ahmad Vahidi,PERSONNE,10,Donald Trump · Strait of Hormuz · IRGC,0.0
+CIA,ORGANISATION,19,Marco Rubio · Abbas Araghchi · JD Vance,0.00025610700363801366
+navy,ORGANISATION,14,Donald Trump · Strait of Hormuz · IRGC,0.0
+Venezuela,LIEU,38,Donald Trump · Strait of Hormuz · IRGC,1.831764615855525e-05
+Virginia,LIEU,8,Donald Trump · Strait of Hormuz · IRGC,0.0
+West Asia,LIEU,32,Donald Trump · Strait of Hormuz · IRGC,0.0
+Field Marshal Asim Munir,ORGANISATION,16,Marco Rubio · Abbas Araghchi · JD Vance,0.0
+Miami,LIEU,8,Donald Trump · Strait of Hormuz · IRGC,0.0
+European Union,ORGANISATION,105,United Nations · European Union · Vladimir Putin,0.013282692664116717
+n’t,LIEU,11,Donald Trump · Strait of Hormuz · IRGC,0.0
+Navy,ORGANISATION,28,Donald Trump · Strait of Hormuz · IRGC,6.613361054150526e-05
+cruise missile,ARMEMENT,22,drone · US Navy · cruise missile,2.3051518587232876e-05
+Spain,LIEU,32,United Nations · European Union · Vladimir Putin,0.0017962234267163998
+Narendra Modi,PERSONNE,14,Marco Rubio · Abbas Araghchi · JD Vance,0.0
+CBS,ORGANISATION,31,Donald Trump · Strait of Hormuz · IRGC,0.0
+IRNA news agency,ORGANISATION,13,Marco Rubio · Abbas Araghchi · JD Vance,0.0
+Sudan,LIEU,16,drone · US Navy · cruise missile,0.0
+Colombia,LIEU,9,Hezbollah · Benjamin Netanyahu · ballistic missile,0.0
+Fujairah,ORGANISATION,12,drone · US Navy · cruise missile,0.0
+Turkiye,LIEU,10,Marco Rubio · Abbas Araghchi · JD Vance,0.0
+Abraham Accords,PERSONNE,15,Hezbollah · Benjamin Netanyahu · ballistic missile,0.0
+Morocco,LIEU,18,United Nations · European Union · Vladimir Putin,0.00019342601035561907
+Mohammed bin Zayed Al Nahyan,PERSONNE,10,drone · US Navy · cruise missile,0.0
+OPEC,ORGANISATION,14,drone · US Navy · cruise missile,0.0
+Anwar Gargash,PERSONNE,11,drone · US Navy · cruise missile,0.0
+Qeshm,SITE_STRATEGIQUE,24,Donald Trump · Strait of Hormuz · IRGC,0.00014022262437679738
+Khan,PERSONNE,9,Hezbollah · Benjamin Netanyahu · ballistic missile,0.0
+Hamas,FORCE_ARMEE,47,Hezbollah · Benjamin Netanyahu · ballistic missile,0.001405722326342929
+Jared Kushner,PERSONNE,18,Marco Rubio · Abbas Araghchi · JD Vance,0.0
+Steve Witkoff,PERSONNE,30,Marco Rubio · Abbas Araghchi · JD Vance,0.00016563294214976907
+Barack Obama,PERSONNE,55,Donald Trump · Strait of Hormuz · IRGC,3.382034632034632e-06
+National Security Council,ORGANISATION,8,Donald Trump · Strait of Hormuz · IRGC,0.0
+Gaza Strip,LIEU,14,Hezbollah · Benjamin Netanyahu · ballistic missile,0.0
+National News Agency,ORGANISATION,17,Hezbollah · Benjamin Netanyahu · ballistic missile,0.0
+Xi,PERSONNE,24,United Nations · European Union · Vladimir Putin,1.1006446039340773e-05
+Mideast,LIEU,10,Donald Trump · Strait of Hormuz · IRGC,0.0
+D.C,LIEU,14,Donald Trump · Strait of Hormuz · IRGC,0.0
+Australia,LIEU,56,United Nations · European Union · Vladimir Putin,0.00013741521986247417
+Emmanuel Macron,PERSONNE,18,United Nations · European Union · Vladimir Putin,4.3156811622720717e-05
+Kazem Gharibabadi,PERSONNE,10,Donald Trump · Strait of Hormuz · IRGC,0.0
+BRICS,LIEU,14,Marco Rubio · Abbas Araghchi · JD Vance,4.987647033101579e-06
+New Delhi,LIEU,46,Marco Rubio · Abbas Araghchi · JD Vance,0.0007156383003952945
+Subrahmanyam Jaishankar,PERSONNE,9,Marco Rubio · Abbas Araghchi · JD Vance,2.0913064391325255e-06
+Global South,LIEU,11,United Nations · European Union · Vladimir Putin,0.0
+Air Force One,ORGANISATION,10,Donald Trump · Strait of Hormuz · IRGC,0.0
+Bloomberg,LIEU,17,Donald Trump · Strait of Hormuz · IRGC,0.0
+Nabatieh,ORGANISATION,13,Hezbollah · Benjamin Netanyahu · ballistic missile,0.005194805194805195
+Tyre,LIEU,29,Hezbollah · Benjamin Netanyahu · ballistic missile,0.002294852316188637
+Kharg Island,SITE_STRATEGIQUE,42,Donald Trump · Strait of Hormuz · IRGC,5.556199752628324e-06
+Philippines,LIEU,15,United Nations · European Union · Vladimir Putin,1.503126503126503e-06
+Vietnam,LIEU,10,Donald Trump · Strait of Hormuz · IRGC,0.0
+NBC,ORGANISATION,16,Donald Trump · Strait of Hormuz · IRGC,0.0
+Barakah,LIEU,11,drone · US Navy · cruise missile,0.0
+Clock,ORGANISATION,18,Donald Trump · Strait of Hormuz · IRGC,0.0
+Vienna,LIEU,17,IAEA · Natanz · Isfahan,0.0
+Bushehr,SITE_STRATEGIQUE,15,Donald Trump · Strait of Hormuz · IRGC,0.0
+Cabinet,ORGANISATION,18,Donald Trump · Strait of Hormuz · IRGC,1.2298307752853207e-06
+Ebrahim Azizi,PERSONNE,14,Donald Trump · Strait of Hormuz · IRGC,0.0
+Mohsin Naqvi,PERSONNE,13,Marco Rubio · Abbas Araghchi · JD Vance,0.0
+aircraft carrier,NAVIRE,16,CENTCOM · tanker · oil tanker,0.0
+DUBAI,LIEU,9,Donald Trump · Strait of Hormuz · IRGC,0.0
+Interior,ORGANISATION,9,Marco Rubio · Abbas Araghchi · JD Vance,0.0
+G7,LIEU,34,United Nations · European Union · Vladimir Putin,2.6487869208655738e-05
+Brussels,LIEU,21,United Nations · European Union · Vladimir Putin,0.0
+Post,ORGANISATION,8,Donald Trump · Strait of Hormuz · IRGC,0.0
+John Ratcliffe,PERSONNE,8,Marco Rubio · Abbas Araghchi · JD Vance,0.0
+Republican Party,ORGANISATION,10,Donald Trump · Strait of Hormuz · IRGC,0.0
+Lindsey Graham,PERSONNE,14,Donald Trump · Strait of Hormuz · IRGC,0.0
+Army,ORGANISATION,14,Marco Rubio · Abbas Araghchi · JD Vance,2.1312336653245745e-05
+Earth,LIEU,15,Donald Trump · Strait of Hormuz · IRGC,0.0
+Hassan Rouhani,PERSONNE,25,Donald Trump · Strait of Hormuz · IRGC,0.0
+Bandar Abbas,SITE_STRATEGIQUE,23,Donald Trump · Strait of Hormuz · IRGC,9.3381734006734e-06
+LPG,ORGANISATION,9,Marco Rubio · Abbas Araghchi · JD Vance,1.932591218305504e-06
+Kenya,LIEU,13,Hezbollah · Benjamin Netanyahu · ballistic missile,0.0
+Somalia,LIEU,11,Hezbollah · Benjamin Netanyahu · ballistic missile,0.005194805194805195
+EPA,ORGANISATION,16,Donald Trump · Strait of Hormuz · IRGC,0.0
+Baghaei,ORGANISATION,19,Donald Trump · Strait of Hormuz · IRGC,0.0
+Iranian Foreign Ministry,ORGANISATION,22,Marco Rubio · Abbas Araghchi · JD Vance,0.0
+Munir,LIEU,14,Marco Rubio · Abbas Araghchi · JD Vance,0.0
+Muscat,LIEU,10,CENTCOM · tanker · oil tanker,0.0
+Mehr,LIEU,10,Donald Trump · Strait of Hormuz · IRGC,0.0
+Human Rights Activists News Agency,ORGANISATION,8,Donald Trump · Strait of Hormuz · IRGC,0.0
+Fars news agency,ORGANISATION,13,Donald Trump · Strait of Hormuz · IRGC,0.0
+Ankara,LIEU,9,Marco Rubio · Abbas Araghchi · JD Vance,0.0
+"Washington, DC",LIEU,13,Donald Trump · Strait of Hormuz · IRGC,0.0
+Brad Cooper,PERSONNE,9,CENTCOM · tanker · oil tanker,0.0
+U.S. Treasury,ORGANISATION,10,Treasury · Scott Bessent · US Treasury,0.0
+World Bank,ORGANISATION,8,Donald Trump · Strait of Hormuz · IRGC,0.0
+Nicolás Maduro,PERSONNE,13,Donald Trump · Strait of Hormuz · IRGC,0.0
+Sweden,LIEU,20,Marco Rubio · Abbas Araghchi · JD Vance,0.0015365988859451516
+Itamar Ben-Gvir,PERSONNE,10,Hezbollah · Benjamin Netanyahu · ballistic missile,0.0
+Ireland,LIEU,12,United Nations · European Union · Vladimir Putin,0.0
+Latin America,LIEU,8,United Nations · European Union · Vladimir Putin,0.0
+Seoul,LIEU,11,Donald Trump · Strait of Hormuz · IRGC,0.0
+State Department,ORGANISATION,23,United Nations · European Union · Vladimir Putin,8.45508658008658e-07
+Hong Kong,LIEU,12,United Nations · European Union · Vladimir Putin,0.0
+Cuba,LIEU,25,Donald Trump · Strait of Hormuz · IRGC,5.652273971239489e-06
+MAGA,ORGANISATION,8,Donald Trump · Strait of Hormuz · IRGC,0.0
+Asim Munir,PERSONNE,17,Marco Rubio · Abbas Araghchi · JD Vance,2.0292207792207796e-05
+Joint Base Andrews,LIEU,10,Donald Trump · Strait of Hormuz · IRGC,0.0
+US Treasury Department,ORGANISATION,9,Donald Trump · Strait of Hormuz · IRGC,0.0
+IRIB,ORGANISATION,14,Donald Trump · Strait of Hormuz · IRGC,0.0
+USS Abraham Lincoln,NAVIRE,8,CENTCOM · tanker · oil tanker,1.691017316017316e-05
+New Jersey,LIEU,24,United Nations · European Union · Vladimir Putin,0.000115947082769323
+NNA,ORGANISATION,10,Hezbollah · Benjamin Netanyahu · ballistic missile,0.0
+Mike Pompeo,PERSONNE,16,Donald Trump · Strait of Hormuz · IRGC,0.0
+Financial Times,ORGANISATION,24,Donald Trump · Strait of Hormuz · IRGC,0.0
+Atlantic,LIEU,22,Donald Trump · Strait of Hormuz · IRGC,0.0
+Mehdi Taj,PERSONNE,14,Donald Trump · Strait of Hormuz · IRGC,0.0
+Georgia,LIEU,11,Marco Rubio · Abbas Araghchi · JD Vance,5.243296791592246e-05
+foreign ministry,ORGANISATION,18,Marco Rubio · Abbas Araghchi · JD Vance,0.0
+Bangladesh,LIEU,9,Marco Rubio · Abbas Araghchi · JD Vance,0.0
+Nasdaq,ORGANISATION,17,Donald Trump · Strait of Hormuz · IRGC,0.0
+Fed,ORGANISATION,9,Donald Trump · Strait of Hormuz · IRGC,0.0
+Palau,LIEU,22,CENTCOM · tanker · oil tanker,1.6541549279644517e-05
+Agence France-Presse,ORGANISATION,8,Hezbollah · Benjamin Netanyahu · ballistic missile,0.0
+Zahrani River,LIEU,8,Hezbollah · Benjamin Netanyahu · ballistic missile,0.0
+Pacific,LIEU,12,Donald Trump · Strait of Hormuz · IRGC,0.0
+Haiti,LIEU,16,United Nations · European Union · Vladimir Putin,0.00030328184890727593
+AAA,ORGANISATION,9,Donald Trump · Strait of Hormuz · IRGC,0.0
+MOU,ORGANISATION,14,Donald Trump · Strait of Hormuz · IRGC,0.0
+Kazakhstan,LIEU,13,United Nations · European Union · Vladimir Putin,3.543844097821371e-06
+Nobitex,PERSONNE,14,Treasury · Scott Bessent · US Treasury,3.382034632034632e-06
+Arabian Gulf,LIEU,8,CENTCOM · tanker · oil tanker,0.0
+Sydney,LIEU,9,United Nations · European Union · Vladimir Putin,0.0
+Treasury Department,ORGANISATION,8,Donald Trump · Strait of Hormuz · IRGC,0.0
+Board of Governors,ORGANISATION,8,IAEA · Natanz · Isfahan,0.0
+Munir Ahmed,PERSONNE,9,Marco Rubio · Abbas Araghchi · JD Vance,2.6605339105339105e-05
+North Carolina,LIEU,12,Donald Trump · Strait of Hormuz · IRGC,0.0
+Damascus,LIEU,16,Hezbollah · Benjamin Netanyahu · ballistic missile,0.0
+DRC,ORGANISATION,11,Hezbollah · Benjamin Netanyahu · ballistic missile,0.0
+Uganda,LIEU,12,Hezbollah · Benjamin Netanyahu · ballistic missile,0.005648360259368373
+Bibi,PERSONNE,9,Donald Trump · Strait of Hormuz · IRGC,0.0
+Seyed Abbas,PERSONNE,8,Donald Trump · Strait of Hormuz · IRGC,0.0
+AH-64,ARMEMENT,8,CENTCOM · tanker · oil tanker,0.0
+Atlantic Council,ORGANISATION,10,United Nations · European Union · Vladimir Putin,0.0
+Guinea,LIEU,13,CENTCOM · tanker · oil tanker,7.525723884604456e-05
+Delhi,LIEU,19,Marco Rubio · Abbas Araghchi · JD Vance,0.0
+Group,ORGANISATION,10,Donald Trump · Strait of Hormuz · IRGC,0.0
+Nigeria,LIEU,16,Donald Trump · Strait of Hormuz · IRGC,0.0
+Washington DC,LIEU,23,Donald Trump · Strait of Hormuz · IRGC,0.0
+Switzerland,LIEU,28,United Nations · European Union · Vladimir Putin,5.6848739884454175e-05
+UFC,ORGANISATION,13,Donald Trump · Strait of Hormuz · IRGC,0.0
+Friedrich Merz,PERSONNE,20,United Nations · European Union · Vladimir Putin,7.696994109900683e-05
+Muharram,LIEU,9,Donald Trump · Strait of Hormuz · IRGC,0.0
+Kennedy Center,LIEU,9,Donald Trump · Strait of Hormuz · IRGC,0.0
+Chicago,LIEU,8,United Nations · European Union · Vladimir Putin,0.0
+Istanbul,LIEU,12,drone · US Navy · cruise missile,0.0
+Federal Reserve,ORGANISATION,11,Donald Trump · Strait of Hormuz · IRGC,0.0
+Kyiv,PERSONNE,19,United Nations · European Union · Vladimir Putin,0.0005355764936168568
+Ukrainian,LIEU,13,United Nations · European Union · Vladimir Putin,0.0
+Ghana,LIEU,9,United Nations · European Union · Vladimir Putin,7.971938775510206e-05
+Panama,LIEU,10,United Nations · European Union · Vladimir Putin,0.00090920296784745
+Netflix,LIEU,10,Donald Trump · Strait of Hormuz · IRGC,0.0
+IPO,ORGANISATION,9,Donald Trump · Strait of Hormuz · IRGC,0.0
+Volodymyr Zelensky,PERSONNE,23,United Nations · European Union · Vladimir Putin,2.5359664792890237e-05
+Norway,LIEU,15,United Nations · European Union · Vladimir Putin,0.0008933644687299496
+Curacao,LIEU,11,United Nations · European Union · Vladimir Putin,0.0
+Houston,LIEU,11,United Nations · European Union · Vladimir Putin,0.0
+Ministry of Defence,ORGANISATION,10,United Nations · European Union · Vladimir Putin,0.0
+Labour,ORGANISATION,15,United Nations · European Union · Vladimir Putin,0.0
+Downing Street,LIEU,10,United Nations · European Union · Vladimir Putin,0.0
+Air India,ORGANISATION,12,United Nations · European Union · Vladimir Putin,0.0
+Asia Pacific,LIEU,9,United Nations · European Union · Vladimir Putin,0.0
+BBC Verify,ORGANISATION,36,Donald Trump · Strait of Hormuz · IRGC,0.0
+John Simpson,PERSONNE,13,United Nations · European Union · Vladimir Putin,0.0
+BBC Sounds,ORGANISATION,13,United Nations · European Union · Vladimir Putin,0.0
+Lyse Doucet,PERSONNE,18,Donald Trump · Strait of Hormuz · IRGC,0.0
+Ayatollah,PERSONNE,11,Donald Trump · Strait of Hormuz · IRGC,0.0
+Daily Mail,ORGANISATION,9,United Nations · European Union · Vladimir Putin,0.0
+Kent,PERSONNE,9,Donald Trump · Strait of Hormuz · IRGC,0.0
+Laura Kuenssberg,PERSONNE,8,Marco Rubio · Abbas Araghchi · JD Vance,0.0
+Kentucky,LIEU,11,Donald Trump · Strait of Hormuz · IRGC,0.0
+Kremlin,ORGANISATION,12,United Nations · European Union · Vladimir Putin,0.0
+RAF,ORGANISATION,8,drone · US Navy · cruise missile,0.0
+Keir,PERSONNE,20,United Nations · European Union · Vladimir Putin,0.0
+BBC Radio 4,ORGANISATION,9,Donald Trump · Strait of Hormuz · IRGC,0.0
+Islamic State,ORGANISATION,8,Hezbollah · Benjamin Netanyahu · ballistic missile,0.0
+Bashar al-Assad,PERSONNE,11,Hezbollah · Benjamin Netanyahu · ballistic missile,0.0
+Peter Mandelson,PERSONNE,10,United Nations · European Union · Vladimir Putin,0.0
+Boris Johnson,PERSONNE,10,United Nations · European Union · Vladimir Putin,0.0
+Infantino,LIEU,11,Donald Trump · Strait of Hormuz · IRGC,0.0
+David Lammy,PERSONNE,10,Donald Trump · Strait of Hormuz · IRGC,0.0
+YouTube,ORGANISATION,13,Marco Rubio · Abbas Araghchi · JD Vance,0.0
+England,LIEU,26,United Nations · European Union · Vladimir Putin,0.005207308474353929
+Jeremy Bowen,PERSONNE,11,Hezbollah · Benjamin Netanyahu · ballistic missile,0.0
+Northern Ireland,LIEU,9,United Nations · European Union · Vladimir Putin,0.0010783884209636088
+Wales,LIEU,10,United Nations · European Union · Vladimir Putin,0.0
+Nigel Farage,PERSONNE,8,United Nations · European Union · Vladimir Putin,0.0
+European Commission,ORGANISATION,19,United Nations · European Union · Vladimir Putin,0.0
+Image,ORGANISATION,16,Donald Trump · Strait of Hormuz · IRGC,0.0
+Democratic Republic of Congo,LIEU,14,Hezbollah · Benjamin Netanyahu · ballistic missile,0.00023225549402497453
+US State Department,ORGANISATION,15,Donald Trump · Strait of Hormuz · IRGC,0.0
+Twitter,PERSONNE,10,Donald Trump · Strait of Hormuz · IRGC,0.0
+BBC Persian,ORGANISATION,17,Donald Trump · Strait of Hormuz · IRGC,0.0
+James Reynolds,PERSONNE,8,Donald Trump · Strait of Hormuz · IRGC,0.0
+Denmark,LIEU,11,United Nations · European Union · Vladimir Putin,8.242098922902491e-05
+Poland,LIEU,11,United Nations · European Union · Vladimir Putin,3.382034632034632e-06
+Portugal,LIEU,9,United Nations · European Union · Vladimir Putin,0.0
+Julian Nagelsmann,PERSONNE,8,United Nations · European Union · Vladimir Putin,0.0
+Belfast,LIEU,14,United Nations · European Union · Vladimir Putin,0.0
+Austria,LIEU,15,United Nations · European Union · Vladimir Putin,0.0
+Hamburg,LIEU,10,United Nations · European Union · Vladimir Putin,0.0
+Champions League,ORGANISATION,11,United Nations · European Union · Vladimir Putin,0.0

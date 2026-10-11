@@ -1,0 +1,15 @@
+# Environnement Python
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Données brutes : trop lourdes pour GitHub (jusqu'à 273 Mo par fichier) et soumises
+# aux licences de leurs auteurs. Voir la section « Données » du README pour les obtenir.
+data_lake/
+
+# Produits intermédiaires régénérés par les notebooks 01 et 02 (corpus, caches)
+outputs/*.parquet
+
+# Documents lourds
+*.pdf

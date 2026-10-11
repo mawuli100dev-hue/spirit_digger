@@ -1,0 +1,31 @@
+{
+  "emetteur": "SPIRIT DIGGER v1.0",
+  "destinataire": "GOD'S EYE v2.0",
+  "reference": "SD-20230624-Wagner",
+  "priorite": "IMMÉDIATE",
+  "cotation_source_texte": "B1",
+  "site": "Rostov-sur-le-Don, QG du district militaire Sud",
+  "zone": {
+    "lat": 47.222,
+    "lon": 39.71,
+    "rayon_km": 3
+  },
+  "acquisitions": {
+    "T0_reference": "2023-06-17",
+    "T1_post_evenement": "2023-06-25"
+  },
+  "scenario_gods_eye": "Scénario 3 · Violation de périmètre",
+  "classes_yolo_a_surveiller": [
+    "large-vehicle",
+    "small-vehicle",
+    "engineering-vehicle",
+    "helicopter"
+  ],
+  "question": "Détecter la présence de véhicules blindés autour du quartier général.",
+  "indices_textuels": [
+    "вагнер (Wagner)",
+    "ростов (Rostov)",
+    "мятеж (mutinerie)",
+    "контрт (antiterroriste)"
+  ]
+}

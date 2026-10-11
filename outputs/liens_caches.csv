@@ -1,0 +1,538 @@
+acteur A,intermédiaire,acteur B,solidité (PMI min),sous-théâtres
+Pentagon,Pete Hegseth,JD Vance,2.650088350225982,Donald Trump · Strait of Hormuz · IRGC  ↔  Marco Rubio · Abbas Araghchi · JD Vance
+Pete Hegseth,JD Vance,Steve Witkoff,2.650088350225982,Donald Trump · Strait of Hormuz · IRGC  ↔  Marco Rubio · Abbas Araghchi · JD Vance
+White House,JD Vance,Steve Witkoff,2.28321514893437,Donald Trump · Strait of Hormuz · IRGC  ↔  Marco Rubio · Abbas Araghchi · JD Vance
+JD Vance,Mohammad Bagher Ghalibaf,Parliament,2.2057834088015538,Marco Rubio · Abbas Araghchi · JD Vance  ↔  Donald Trump · Strait of Hormuz · IRGC
+Mohammad Bagher Ghalibaf,JD Vance,Steve Witkoff,2.2057834088015538,Donald Trump · Strait of Hormuz · IRGC  ↔  Marco Rubio · Abbas Araghchi · JD Vance
+JD Vance,Mohammad Bagher Ghalibaf,Masoud Pezeshkian,2.2057834088015538,Marco Rubio · Abbas Araghchi · JD Vance  ↔  Donald Trump · Strait of Hormuz · IRGC
+JD Vance,White House,Xi,2.065936717072558,Marco Rubio · Abbas Araghchi · JD Vance  ↔  United Nations · European Union · Vladimir Putin
+White House,Xi,Vladimir Putin,2.065936717072558,Donald Trump · Strait of Hormuz · IRGC  ↔  United Nations · European Union · Vladimir Putin
+Pete Hegseth,Marco Rubio,NATO,1.9836094167481981,Donald Trump · Strait of Hormuz · IRGC  ↔  Marco Rubio · Abbas Araghchi · JD Vance
+Marco Rubio,Pete Hegseth,Pentagon,1.9836094167481981,Marco Rubio · Abbas Araghchi · JD Vance  ↔  Donald Trump · Strait of Hormuz · IRGC
+Abbas Araghchi,Masoud Pezeshkian,Mojtaba Khamenei,1.925648541985156,Marco Rubio · Abbas Araghchi · JD Vance  ↔  Donald Trump · Strait of Hormuz · IRGC
+Marco Rubio,JD Vance,Mohammad Bagher Ghalibaf,1.8625314851949621,Marco Rubio · Abbas Araghchi · JD Vance  ↔  Donald Trump · Strait of Hormuz · IRGC
+Congress,White House,Xi,1.828045309123793,Donald Trump · Strait of Hormuz · IRGC  ↔  United Nations · European Union · Vladimir Putin
+JD Vance,White House,Congress,1.828045309123793,Marco Rubio · Abbas Araghchi · JD Vance  ↔  Donald Trump · Strait of Hormuz · IRGC
+JD Vance,White House,Xi Jinping,1.680674316281913,Marco Rubio · Abbas Araghchi · JD Vance  ↔  United Nations · European Union · Vladimir Putin
+Congress,White House,Xi Jinping,1.680674316281913,Donald Trump · Strait of Hormuz · IRGC  ↔  United Nations · European Union · Vladimir Putin
+IDF,Benjamin Netanyahu,CBS,1.6592520139897264,Hezbollah · Benjamin Netanyahu · ballistic missile  ↔  Donald Trump · Strait of Hormuz · IRGC
+Pete Hegseth,White House,Xi,1.5169898854867032,Donald Trump · Strait of Hormuz · IRGC  ↔  United Nations · European Union · Vladimir Putin
+Pete Hegseth,White House,Xi Jinping,1.5169898854867032,Donald Trump · Strait of Hormuz · IRGC  ↔  United Nations · European Union · Vladimir Putin
+Xi Jinping,Donald Trump,Oval Office,1.4875158081580813,United Nations · European Union · Vladimir Putin  ↔  Donald Trump · Strait of Hormuz · IRGC
+IRGC,Mohammad Bagher Ghalibaf,Abbas Araghchi,1.4634284403450795,Donald Trump · Strait of Hormuz · IRGC  ↔  Marco Rubio · Abbas Araghchi · JD Vance
+IRGC,Mohammad Bagher Ghalibaf,JD Vance,1.4634284403450795,Donald Trump · Strait of Hormuz · IRGC  ↔  Marco Rubio · Abbas Araghchi · JD Vance
+IDF,CENTCOM,US Navy,1.3718214822259778,Hezbollah · Benjamin Netanyahu · ballistic missile  ↔  drone · US Navy · cruise missile
+Benjamin Netanyahu,IDF,CENTCOM,1.3718214822259778,Hezbollah · Benjamin Netanyahu · ballistic missile  ↔  CENTCOM · tanker · oil tanker
+Hezbollah,IDF,CENTCOM,1.3718214822259778,Hezbollah · Benjamin Netanyahu · ballistic missile  ↔  CENTCOM · tanker · oil tanker
+Treasury,IRGC,Supreme National Security Council,1.3298970477205567,Treasury · Scott Bessent · US Treasury  ↔  Donald Trump · Strait of Hormuz · IRGC
+Mohammad Bagher Ghalibaf,IRGC,Treasury,1.3298970477205567,Donald Trump · Strait of Hormuz · IRGC  ↔  Treasury · Scott Bessent · US Treasury
+Treasury,IRGC,Navy,1.3298970477205567,Treasury · Scott Bessent · US Treasury  ↔  Donald Trump · Strait of Hormuz · IRGC
+IRGC,Treasury,Scott Bessent,1.3298970477205567,Donald Trump · Strait of Hormuz · IRGC  ↔  Treasury · Scott Bessent · US Treasury
+Tasnim,IRGC,Treasury,1.3298970477205567,Donald Trump · Strait of Hormuz · IRGC  ↔  Treasury · Scott Bessent · US Treasury
+Oval Office,Donald Trump,Xi,1.2974140640451644,Donald Trump · Strait of Hormuz · IRGC  ↔  United Nations · European Union · Vladimir Putin
+JD Vance,Benjamin Netanyahu,CBS,1.210769520797871,Marco Rubio · Abbas Araghchi · JD Vance  ↔  Donald Trump · Strait of Hormuz · IRGC
+JD Vance,Benjamin Netanyahu,IDF,1.210769520797871,Marco Rubio · Abbas Araghchi · JD Vance  ↔  Hezbollah · Benjamin Netanyahu · ballistic missile
+White House,JD Vance,Benjamin Netanyahu,1.210769520797871,Donald Trump · Strait of Hormuz · IRGC  ↔  Hezbollah · Benjamin Netanyahu · ballistic missile
+Benjamin Netanyahu,JD Vance,Marco Rubio,1.210769520797871,Hezbollah · Benjamin Netanyahu · ballistic missile  ↔  Marco Rubio · Abbas Araghchi · JD Vance
+Benjamin Netanyahu,JD Vance,Mohammad Bagher Ghalibaf,1.210769520797871,Hezbollah · Benjamin Netanyahu · ballistic missile  ↔  Donald Trump · Strait of Hormuz · IRGC
+Benjamin Netanyahu,JD Vance,Pete Hegseth,1.210769520797871,Hezbollah · Benjamin Netanyahu · ballistic missile  ↔  Donald Trump · Strait of Hormuz · IRGC
+Benjamin Netanyahu,JD Vance,Steve Witkoff,1.210769520797871,Hezbollah · Benjamin Netanyahu · ballistic missile  ↔  Marco Rubio · Abbas Araghchi · JD Vance
+Hezbollah,Benjamin Netanyahu,JD Vance,1.2066500505026323,Hezbollah · Benjamin Netanyahu · ballistic missile  ↔  Marco Rubio · Abbas Araghchi · JD Vance
+Hezbollah,Benjamin Netanyahu,CBS,1.2066500505026323,Hezbollah · Benjamin Netanyahu · ballistic missile  ↔  Donald Trump · Strait of Hormuz · IRGC
+Steve Witkoff,Donald Trump,Oval Office,1.1294812447033094,Marco Rubio · Abbas Araghchi · JD Vance  ↔  Donald Trump · Strait of Hormuz · IRGC
+Steve Witkoff,Donald Trump,Xi,1.1294812447033094,Marco Rubio · Abbas Araghchi · JD Vance  ↔  United Nations · European Union · Vladimir Putin
+Xi Jinping,Donald Trump,Steve Witkoff,1.1294812447033094,United Nations · European Union · Vladimir Putin  ↔  Marco Rubio · Abbas Araghchi · JD Vance
+JD Vance,Benjamin Netanyahu,Hamas,1.1014694071359645,Marco Rubio · Abbas Araghchi · JD Vance  ↔  Hezbollah · Benjamin Netanyahu · ballistic missile
+Hamas,Benjamin Netanyahu,CBS,1.1014694071359645,Hezbollah · Benjamin Netanyahu · ballistic missile  ↔  Donald Trump · Strait of Hormuz · IRGC
+Benjamin Netanyahu,Hezbollah,Tasnim,1.079476856620602,Hezbollah · Benjamin Netanyahu · ballistic missile  ↔  Donald Trump · Strait of Hormuz · IRGC
+Tasnim,Hezbollah,Houthis,1.079476856620602,Donald Trump · Strait of Hormuz · IRGC  ↔  Hezbollah · Benjamin Netanyahu · ballistic missile
+Tasnim,Hezbollah,Hamas,1.079476856620602,Donald Trump · Strait of Hormuz · IRGC  ↔  Hezbollah · Benjamin Netanyahu · ballistic missile
+Tasnim,Hezbollah,IDF,1.079476856620602,Donald Trump · Strait of Hormuz · IRGC  ↔  Hezbollah · Benjamin Netanyahu · ballistic missile
+Senate,Donald Trump,Xi,1.075271013064538,Donald Trump · Strait of Hormuz · IRGC  ↔  United Nations · European Union · Vladimir Putin
+Senate,Donald Trump,Steve Witkoff,1.075271013064538,Donald Trump · Strait of Hormuz · IRGC  ↔  Marco Rubio · Abbas Araghchi · JD Vance
+Xi Jinping,Donald Trump,Senate,1.075271013064538,United Nations · European Union · Vladimir Putin  ↔  Donald Trump · Strait of Hormuz · IRGC
+Barack Obama,Donald Trump,Steve Witkoff,1.0136586095963558,Donald Trump · Strait of Hormuz · IRGC  ↔  Marco Rubio · Abbas Araghchi · JD Vance
+Barack Obama,Donald Trump,Xi Jinping,1.0136586095963558,Donald Trump · Strait of Hormuz · IRGC  ↔  United Nations · European Union · Vladimir Putin
+Barack Obama,Donald Trump,Xi,1.0136586095963558,Donald Trump · Strait of Hormuz · IRGC  ↔  United Nations · European Union · Vladimir Putin
+Mohammad Bagher Ghalibaf,IRGC,IDF,1.0029942621154944,Donald Trump · Strait of Hormuz · IRGC  ↔  Hezbollah · Benjamin Netanyahu · ballistic missile
+IDF,IRGC,Supreme National Security Council,1.0029942621154944,Hezbollah · Benjamin Netanyahu · ballistic missile  ↔  Donald Trump · Strait of Hormuz · IRGC
+IDF,IRGC,Navy,1.0029942621154944,Hezbollah · Benjamin Netanyahu · ballistic missile  ↔  Donald Trump · Strait of Hormuz · IRGC
+IDF,IRGC,Treasury,1.0029942621154944,Hezbollah · Benjamin Netanyahu · ballistic missile  ↔  Treasury · Scott Bessent · US Treasury
+IRGC,IDF,Benjamin Netanyahu,1.0029942621154944,Donald Trump · Strait of Hormuz · IRGC  ↔  Hezbollah · Benjamin Netanyahu · ballistic missile
+Pentagon,White House,Xi Jinping,0.9773747642579499,Donald Trump · Strait of Hormuz · IRGC  ↔  United Nations · European Union · Vladimir Putin
+Pentagon,White House,Xi,0.9773747642579499,Donald Trump · Strait of Hormuz · IRGC  ↔  United Nations · European Union · Vladimir Putin
+Joe Biden,Donald Trump,Steve Witkoff,0.9019992917905014,Donald Trump · Strait of Hormuz · IRGC  ↔  Marco Rubio · Abbas Araghchi · JD Vance
+Xi Jinping,Donald Trump,Joe Biden,0.9019992917905014,United Nations · European Union · Vladimir Putin  ↔  Donald Trump · Strait of Hormuz · IRGC
+Joe Biden,Donald Trump,Xi,0.9019992917905014,Donald Trump · Strait of Hormuz · IRGC  ↔  United Nations · European Union · Vladimir Putin
+Donald Trump,Benjamin Netanyahu,IDF,0.8923959832131076,Donald Trump · Strait of Hormuz · IRGC  ↔  Hezbollah · Benjamin Netanyahu · ballistic missile
+Benjamin Netanyahu,Donald Trump,Senate,0.8923959832131076,Hezbollah · Benjamin Netanyahu · ballistic missile  ↔  Donald Trump · Strait of Hormuz · IRGC
+Benjamin Netanyahu,Donald Trump,Oval Office,0.8923959832131076,Hezbollah · Benjamin Netanyahu · ballistic missile  ↔  Donald Trump · Strait of Hormuz · IRGC
+Benjamin Netanyahu,Donald Trump,Xi Jinping,0.8923959832131076,Hezbollah · Benjamin Netanyahu · ballistic missile  ↔  United Nations · European Union · Vladimir Putin
+Benjamin Netanyahu,Donald Trump,Xi,0.8923959832131076,Hezbollah · Benjamin Netanyahu · ballistic missile  ↔  United Nations · European Union · Vladimir Putin
+Benjamin Netanyahu,Donald Trump,Joe Biden,0.8923959832131076,Hezbollah · Benjamin Netanyahu · ballistic missile  ↔  Donald Trump · Strait of Hormuz · IRGC
+Benjamin Netanyahu,Donald Trump,Barack Obama,0.8923959832131076,Hezbollah · Benjamin Netanyahu · ballistic missile  ↔  Donald Trump · Strait of Hormuz · IRGC
+Marco Rubio,White House,Xi,0.826596768909331,Marco Rubio · Abbas Araghchi · JD Vance  ↔  United Nations · European Union · Vladimir Putin
+Marco Rubio,White House,Xi Jinping,0.826596768909331,Marco Rubio · Abbas Araghchi · JD Vance  ↔  United Nations · European Union · Vladimir Putin
+Marco Rubio,White House,Congress,0.826596768909331,Marco Rubio · Abbas Araghchi · JD Vance  ↔  Donald Trump · Strait of Hormuz · IRGC
+Xi Jinping,Donald Trump,Iranian Foreign Ministry,0.7684678991659787,United Nations · European Union · Vladimir Putin  ↔  Marco Rubio · Abbas Araghchi · JD Vance
+Oval Office,Donald Trump,Iranian Foreign Ministry,0.7684678991659787,Donald Trump · Strait of Hormuz · IRGC  ↔  Marco Rubio · Abbas Araghchi · JD Vance
+Xi,Donald Trump,Iranian Foreign Ministry,0.7684678991659787,United Nations · European Union · Vladimir Putin  ↔  Marco Rubio · Abbas Araghchi · JD Vance
+Barack Obama,Donald Trump,Iranian Foreign Ministry,0.7684678991659787,Donald Trump · Strait of Hormuz · IRGC  ↔  Marco Rubio · Abbas Araghchi · JD Vance
+Benjamin Netanyahu,Donald Trump,Iranian Foreign Ministry,0.7684678991659787,Hezbollah · Benjamin Netanyahu · ballistic missile  ↔  Marco Rubio · Abbas Araghchi · JD Vance
+Senate,Donald Trump,Iranian Foreign Ministry,0.7684678991659787,Donald Trump · Strait of Hormuz · IRGC  ↔  Marco Rubio · Abbas Araghchi · JD Vance
+White House,Donald Trump,Iranian Foreign Ministry,0.7684678991659787,Donald Trump · Strait of Hormuz · IRGC  ↔  Marco Rubio · Abbas Araghchi · JD Vance
+Joe Biden,Donald Trump,Iranian Foreign Ministry,0.7684678991659787,Donald Trump · Strait of Hormuz · IRGC  ↔  Marco Rubio · Abbas Araghchi · JD Vance
+Pete Hegseth,Donald Trump,Iranian Foreign Ministry,0.7642155894274485,Donald Trump · Strait of Hormuz · IRGC  ↔  Marco Rubio · Abbas Araghchi · JD Vance
+Abbas Araghchi,Ali Khamenei,Ruhollah Khomeini,0.7624977321794749,Marco Rubio · Abbas Araghchi · JD Vance  ↔  Donald Trump · Strait of Hormuz · IRGC
+Iranian Foreign Ministry,Donald Trump,House,0.7504493936633003,Marco Rubio · Abbas Araghchi · JD Vance  ↔  Donald Trump · Strait of Hormuz · IRGC
+Steve Witkoff,Donald Trump,House,0.7504493936633003,Marco Rubio · Abbas Araghchi · JD Vance  ↔  Donald Trump · Strait of Hormuz · IRGC
+Benjamin Netanyahu,Donald Trump,House,0.7504493936633003,Hezbollah · Benjamin Netanyahu · ballistic missile  ↔  Donald Trump · Strait of Hormuz · IRGC
+Xi Jinping,Donald Trump,House,0.7504493936633003,United Nations · European Union · Vladimir Putin  ↔  Donald Trump · Strait of Hormuz · IRGC
+Xi,Donald Trump,House,0.7504493936633003,United Nations · European Union · Vladimir Putin  ↔  Donald Trump · Strait of Hormuz · IRGC
+Congress,Donald Trump,Iranian Foreign Ministry,0.7450293261939611,Donald Trump · Strait of Hormuz · IRGC  ↔  Marco Rubio · Abbas Araghchi · JD Vance
+Congress,Donald Trump,Steve Witkoff,0.7450293261939611,Donald Trump · Strait of Hormuz · IRGC  ↔  Marco Rubio · Abbas Araghchi · JD Vance
+Benjamin Netanyahu,Donald Trump,Congress,0.7450293261939611,Hezbollah · Benjamin Netanyahu · ballistic missile  ↔  Donald Trump · Strait of Hormuz · IRGC
+Xi Jinping,Donald Trump,Financial Times,0.6014138145028126,United Nations · European Union · Vladimir Putin  ↔  Donald Trump · Strait of Hormuz · IRGC
+Xi,Donald Trump,Financial Times,0.6014138145028126,United Nations · European Union · Vladimir Putin  ↔  Donald Trump · Strait of Hormuz · IRGC
+Steve Witkoff,Donald Trump,Financial Times,0.6014138145028126,Marco Rubio · Abbas Araghchi · JD Vance  ↔  Donald Trump · Strait of Hormuz · IRGC
+Financial Times,Donald Trump,Iranian Foreign Ministry,0.6014138145028126,Donald Trump · Strait of Hormuz · IRGC  ↔  Marco Rubio · Abbas Araghchi · JD Vance
+IDF,IRGC,Khamenei,0.5659807962724042,Hezbollah · Benjamin Netanyahu · ballistic missile  ↔  Donald Trump · Strait of Hormuz · IRGC
+Khamenei,IRGC,Treasury,0.5659807962724042,Donald Trump · Strait of Hormuz · IRGC  ↔  Treasury · Scott Bessent · US Treasury
+IRGC,Marco Rubio,NATO,0.560560728803065,Donald Trump · Strait of Hormuz · IRGC  ↔  Marco Rubio · Abbas Araghchi · JD Vance
+Marco Rubio,IRGC,IDF,0.560560728803065,Marco Rubio · Abbas Araghchi · JD Vance  ↔  Hezbollah · Benjamin Netanyahu · ballistic missile
+Marco Rubio,IRGC,Tasnim,0.560560728803065,Marco Rubio · Abbas Araghchi · JD Vance  ↔  Donald Trump · Strait of Hormuz · IRGC
+Marco Rubio,IRGC,Khamenei,0.560560728803065,Marco Rubio · Abbas Araghchi · JD Vance  ↔  Donald Trump · Strait of Hormuz · IRGC
+Marco Rubio,IRGC,Treasury,0.560560728803065,Marco Rubio · Abbas Araghchi · JD Vance  ↔  Treasury · Scott Bessent · US Treasury
+Marco Rubio,IRGC,Navy,0.560560728803065,Marco Rubio · Abbas Araghchi · JD Vance  ↔  Donald Trump · Strait of Hormuz · IRGC
+Marco Rubio,IRGC,Supreme National Security Council,0.560560728803065,Marco Rubio · Abbas Araghchi · JD Vance  ↔  Donald Trump · Strait of Hormuz · IRGC
+CBS,Donald Trump,Iranian Foreign Ministry,0.5273058423490907,Donald Trump · Strait of Hormuz · IRGC  ↔  Marco Rubio · Abbas Araghchi · JD Vance
+CBS,Donald Trump,Xi,0.5273058423490907,Donald Trump · Strait of Hormuz · IRGC  ↔  United Nations · European Union · Vladimir Putin
+Xi Jinping,Donald Trump,CBS,0.5273058423490907,United Nations · European Union · Vladimir Putin  ↔  Donald Trump · Strait of Hormuz · IRGC
+CBS,Donald Trump,Steve Witkoff,0.5273058423490907,Donald Trump · Strait of Hormuz · IRGC  ↔  Marco Rubio · Abbas Araghchi · JD Vance
+Donald Trump,Emmanuel Macron,Friedrich Merz,0.5273058423490907,Donald Trump · Strait of Hormuz · IRGC  ↔  United Nations · European Union · Vladimir Putin
+Hezbollah,Benjamin Netanyahu,Abbas Araghchi,0.41753888168094333,Hezbollah · Benjamin Netanyahu · ballistic missile  ↔  Marco Rubio · Abbas Araghchi · JD Vance
+Abbas Araghchi,Benjamin Netanyahu,Hamas,0.41753888168094333,Marco Rubio · Abbas Araghchi · JD Vance  ↔  Hezbollah · Benjamin Netanyahu · ballistic missile
+Benjamin Netanyahu,Abbas Araghchi,Masoud Pezeshkian,0.41753888168094333,Hezbollah · Benjamin Netanyahu · ballistic missile  ↔  Donald Trump · Strait of Hormuz · IRGC
+Abbas Araghchi,Benjamin Netanyahu,IDF,0.41753888168094333,Marco Rubio · Abbas Araghchi · JD Vance  ↔  Hezbollah · Benjamin Netanyahu · ballistic missile
+Abbas Araghchi,Benjamin Netanyahu,CBS,0.41753888168094333,Marco Rubio · Abbas Araghchi · JD Vance  ↔  Donald Trump · Strait of Hormuz · IRGC
+Ali Khamenei,IRGC,Treasury,0.407908294731764,Donald Trump · Strait of Hormuz · IRGC  ↔  Treasury · Scott Bessent · US Treasury
+Ali Khamenei,IRGC,Marco Rubio,0.407908294731764,Donald Trump · Strait of Hormuz · IRGC  ↔  Marco Rubio · Abbas Araghchi · JD Vance
+Ali Khamenei,IRGC,IDF,0.407908294731764,Donald Trump · Strait of Hormuz · IRGC  ↔  Hezbollah · Benjamin Netanyahu · ballistic missile
+JD Vance,Donald Trump,House,0.39627757994268664,Marco Rubio · Abbas Araghchi · JD Vance  ↔  Donald Trump · Strait of Hormuz · IRGC
+JD Vance,Donald Trump,Oval Office,0.39627757994268664,Marco Rubio · Abbas Araghchi · JD Vance  ↔  Donald Trump · Strait of Hormuz · IRGC
+JD Vance,Donald Trump,Senate,0.39627757994268664,Marco Rubio · Abbas Araghchi · JD Vance  ↔  Donald Trump · Strait of Hormuz · IRGC
+JD Vance,Donald Trump,Financial Times,0.39627757994268664,Marco Rubio · Abbas Araghchi · JD Vance  ↔  Donald Trump · Strait of Hormuz · IRGC
+JD Vance,Donald Trump,Barack Obama,0.39627757994268664,Marco Rubio · Abbas Araghchi · JD Vance  ↔  Donald Trump · Strait of Hormuz · IRGC
+JD Vance,Donald Trump,Joe Biden,0.39627757994268664,Marco Rubio · Abbas Araghchi · JD Vance  ↔  Donald Trump · Strait of Hormuz · IRGC
+NATO,Donald Trump,Congress,0.25817717779305754,Marco Rubio · Abbas Araghchi · JD Vance  ↔  Donald Trump · Strait of Hormuz · IRGC
+Benjamin Netanyahu,Donald Trump,NATO,0.25817717779305754,Hezbollah · Benjamin Netanyahu · ballistic missile  ↔  Marco Rubio · Abbas Araghchi · JD Vance
+Barack Obama,Donald Trump,NATO,0.25817717779305754,Donald Trump · Strait of Hormuz · IRGC  ↔  Marco Rubio · Abbas Araghchi · JD Vance
+NATO,Donald Trump,House,0.25817717779305754,Marco Rubio · Abbas Araghchi · JD Vance  ↔  Donald Trump · Strait of Hormuz · IRGC
+NATO,Donald Trump,Financial Times,0.25817717779305754,Marco Rubio · Abbas Araghchi · JD Vance  ↔  Donald Trump · Strait of Hormuz · IRGC
+NATO,Donald Trump,Xi,0.25817717779305754,Marco Rubio · Abbas Araghchi · JD Vance  ↔  United Nations · European Union · Vladimir Putin
+NATO,Donald Trump,CBS,0.25817717779305754,Marco Rubio · Abbas Araghchi · JD Vance  ↔  Donald Trump · Strait of Hormuz · IRGC
+NATO,Donald Trump,Oval Office,0.25817717779305754,Marco Rubio · Abbas Araghchi · JD Vance  ↔  Donald Trump · Strait of Hormuz · IRGC
+NATO,Donald Trump,Senate,0.25817717779305754,Marco Rubio · Abbas Araghchi · JD Vance  ↔  Donald Trump · Strait of Hormuz · IRGC
+NATO,Donald Trump,Joe Biden,0.25817717779305754,Marco Rubio · Abbas Araghchi · JD Vance  ↔  Donald Trump · Strait of Hormuz · IRGC
+NATO,Donald Trump,Xi Jinping,0.25817717779305754,Marco Rubio · Abbas Araghchi · JD Vance  ↔  United Nations · European Union · Vladimir Putin
+Mojtaba Khamenei,Donald Trump,JD Vance,0.1835343032462661,Donald Trump · Strait of Hormuz · IRGC  ↔  Marco Rubio · Abbas Araghchi · JD Vance
+Mojtaba Khamenei,Donald Trump,NATO,0.1835343032462661,Donald Trump · Strait of Hormuz · IRGC  ↔  Marco Rubio · Abbas Araghchi · JD Vance
+Mojtaba Khamenei,Donald Trump,Xi,0.1835343032462661,Donald Trump · Strait of Hormuz · IRGC  ↔  United Nations · European Union · Vladimir Putin
+Mojtaba Khamenei,Donald Trump,Iranian Foreign Ministry,0.1835343032462661,Donald Trump · Strait of Hormuz · IRGC  ↔  Marco Rubio · Abbas Araghchi · JD Vance
+Benjamin Netanyahu,Donald Trump,Mojtaba Khamenei,0.1835343032462661,Hezbollah · Benjamin Netanyahu · ballistic missile  ↔  Donald Trump · Strait of Hormuz · IRGC
+Mojtaba Khamenei,Donald Trump,Steve Witkoff,0.1835343032462661,Donald Trump · Strait of Hormuz · IRGC  ↔  Marco Rubio · Abbas Araghchi · JD Vance
+Mojtaba Khamenei,Donald Trump,Xi Jinping,0.1835343032462661,Donald Trump · Strait of Hormuz · IRGC  ↔  United Nations · European Union · Vladimir Putin
+Vladimir Putin,Donald Trump,CBS,0.18320968061721846,United Nations · European Union · Vladimir Putin  ↔  Donald Trump · Strait of Hormuz · IRGC
+Vladimir Putin,Donald Trump,House,0.18320968061721846,United Nations · European Union · Vladimir Putin  ↔  Donald Trump · Strait of Hormuz · IRGC
+Vladimir Putin,Donald Trump,Joe Biden,0.18320968061721846,United Nations · European Union · Vladimir Putin  ↔  Donald Trump · Strait of Hormuz · IRGC
+Vladimir Putin,Donald Trump,Financial Times,0.18320968061721846,United Nations · European Union · Vladimir Putin  ↔  Donald Trump · Strait of Hormuz · IRGC
+Vladimir Putin,Donald Trump,Oval Office,0.18320968061721846,United Nations · European Union · Vladimir Putin  ↔  Donald Trump · Strait of Hormuz · IRGC
+Vladimir Putin,Donald Trump,Steve Witkoff,0.18320968061721846,United Nations · European Union · Vladimir Putin  ↔  Marco Rubio · Abbas Araghchi · JD Vance
+Vladimir Putin,Donald Trump,Iranian Foreign Ministry,0.18320968061721846,United Nations · European Union · Vladimir Putin  ↔  Marco Rubio · Abbas Araghchi · JD Vance
+Barack Obama,Donald Trump,Vladimir Putin,0.18320968061721846,Donald Trump · Strait of Hormuz · IRGC  ↔  United Nations · European Union · Vladimir Putin
+Congress,Donald Trump,Vladimir Putin,0.18320968061721846,Donald Trump · Strait of Hormuz · IRGC  ↔  United Nations · European Union · Vladimir Putin
+Vladimir Putin,Donald Trump,Senate,0.18320968061721846,United Nations · European Union · Vladimir Putin  ↔  Donald Trump · Strait of Hormuz · IRGC
+NATO,Donald Trump,Vladimir Putin,0.18320968061721846,Marco Rubio · Abbas Araghchi · JD Vance  ↔  United Nations · European Union · Vladimir Putin
+Benjamin Netanyahu,Donald Trump,Vladimir Putin,0.18320968061721846,Hezbollah · Benjamin Netanyahu · ballistic missile  ↔  United Nations · European Union · Vladimir Putin
+Pete Hegseth,Donald Trump,Vladimir Putin,0.18320968061721846,Donald Trump · Strait of Hormuz · IRGC  ↔  United Nations · European Union · Vladimir Putin
+JD Vance,Donald Trump,Vladimir Putin,0.18320968061721846,Marco Rubio · Abbas Araghchi · JD Vance  ↔  United Nations · European Union · Vladimir Putin
+Mojtaba Khamenei,Donald Trump,Vladimir Putin,0.18320968061721846,Donald Trump · Strait of Hormuz · IRGC  ↔  United Nations · European Union · Vladimir Putin
+IRGC,CENTCOM,US Navy,0.06765533527064489,Donald Trump · Strait of Hormuz · IRGC  ↔  drone · US Navy · cruise missile
+CENTCOM,IRGC,Tasnim,0.06765533527064489,CENTCOM · tanker · oil tanker  ↔  Donald Trump · Strait of Hormuz · IRGC
+CENTCOM,IRGC,Treasury,0.06765533527064489,CENTCOM · tanker · oil tanker  ↔  Treasury · Scott Bessent · US Treasury
+CENTCOM,IRGC,Navy,0.06765533527064489,CENTCOM · tanker · oil tanker  ↔  Donald Trump · Strait of Hormuz · IRGC
+Ali Khamenei,IRGC,CENTCOM,0.06765533527064489,Donald Trump · Strait of Hormuz · IRGC  ↔  CENTCOM · tanker · oil tanker
+CENTCOM,IRGC,Khamenei,0.06765533527064489,CENTCOM · tanker · oil tanker  ↔  Donald Trump · Strait of Hormuz · IRGC
+CENTCOM,IRGC,Marco Rubio,0.06765533527064489,CENTCOM · tanker · oil tanker  ↔  Marco Rubio · Abbas Araghchi · JD Vance
+CENTCOM,IRGC,Supreme National Security Council,0.06765533527064489,CENTCOM · tanker · oil tanker  ↔  Donald Trump · Strait of Hormuz · IRGC
+CENTCOM,IRGC,Mohammad Bagher Ghalibaf,0.06765533527064489,CENTCOM · tanker · oil tanker  ↔  Donald Trump · Strait of Hormuz · IRGC
+White House,Donald Trump,Shehbaz Sharif,0.0012127464523116174,Donald Trump · Strait of Hormuz · IRGC  ↔  Marco Rubio · Abbas Araghchi · JD Vance
+Shehbaz Sharif,Donald Trump,Vladimir Putin,0.0012127464523116174,Marco Rubio · Abbas Araghchi · JD Vance  ↔  United Nations · European Union · Vladimir Putin
+Shehbaz Sharif,Donald Trump,Senate,0.0012127464523116174,Marco Rubio · Abbas Araghchi · JD Vance  ↔  Donald Trump · Strait of Hormuz · IRGC
+Shehbaz Sharif,Donald Trump,Barack Obama,0.0012127464523116174,Marco Rubio · Abbas Araghchi · JD Vance  ↔  Donald Trump · Strait of Hormuz · IRGC
+Shehbaz Sharif,Donald Trump,Xi Jinping,0.0012127464523116174,Marco Rubio · Abbas Araghchi · JD Vance  ↔  United Nations · European Union · Vladimir Putin
+Shehbaz Sharif,Donald Trump,Xi,0.0012127464523116174,Marco Rubio · Abbas Araghchi · JD Vance  ↔  United Nations · European Union · Vladimir Putin
+Benjamin Netanyahu,Donald Trump,Shehbaz Sharif,0.0012127464523116174,Hezbollah · Benjamin Netanyahu · ballistic missile  ↔  Marco Rubio · Abbas Araghchi · JD Vance
+Shehbaz Sharif,Donald Trump,House,0.0012127464523116174,Marco Rubio · Abbas Araghchi · JD Vance  ↔  Donald Trump · Strait of Hormuz · IRGC
+Shehbaz Sharif,Donald Trump,Oval Office,0.0012127464523116174,Marco Rubio · Abbas Araghchi · JD Vance  ↔  Donald Trump · Strait of Hormuz · IRGC
+Shehbaz Sharif,Donald Trump,CBS,0.0012127464523116174,Marco Rubio · Abbas Araghchi · JD Vance  ↔  Donald Trump · Strait of Hormuz · IRGC
+Shehbaz Sharif,Donald Trump,Financial Times,0.0012127464523116174,Marco Rubio · Abbas Araghchi · JD Vance  ↔  Donald Trump · Strait of Hormuz · IRGC
+Shehbaz Sharif,Donald Trump,Joe Biden,0.0012127464523116174,Marco Rubio · Abbas Araghchi · JD Vance  ↔  Donald Trump · Strait of Hormuz · IRGC
+Shehbaz Sharif,Donald Trump,Congress,0.0012127464523116174,Marco Rubio · Abbas Araghchi · JD Vance  ↔  Donald Trump · Strait of Hormuz · IRGC
+Pete Hegseth,Donald Trump,Shehbaz Sharif,0.0012127464523116174,Donald Trump · Strait of Hormuz · IRGC  ↔  Marco Rubio · Abbas Araghchi · JD Vance
+Mojtaba Khamenei,Donald Trump,Shehbaz Sharif,0.0012127464523116174,Donald Trump · Strait of Hormuz · IRGC  ↔  Marco Rubio · Abbas Araghchi · JD Vance
+Abbas Araghchi,Donald Trump,House,-0.06048082255302828,Marco Rubio · Abbas Araghchi · JD Vance  ↔  Donald Trump · Strait of Hormuz · IRGC
+White House,Donald Trump,Abbas Araghchi,-0.06048082255302828,Donald Trump · Strait of Hormuz · IRGC  ↔  Marco Rubio · Abbas Araghchi · JD Vance
+Abbas Araghchi,Donald Trump,Financial Times,-0.06048082255302828,Marco Rubio · Abbas Araghchi · JD Vance  ↔  Donald Trump · Strait of Hormuz · IRGC
+Abbas Araghchi,Donald Trump,Xi,-0.06048082255302828,Marco Rubio · Abbas Araghchi · JD Vance  ↔  United Nations · European Union · Vladimir Putin
+Abbas Araghchi,Donald Trump,Oval Office,-0.06048082255302828,Marco Rubio · Abbas Araghchi · JD Vance  ↔  Donald Trump · Strait of Hormuz · IRGC
+Abbas Araghchi,Donald Trump,Vladimir Putin,-0.06048082255302828,Marco Rubio · Abbas Araghchi · JD Vance  ↔  United Nations · European Union · Vladimir Putin
+Abbas Araghchi,Donald Trump,Senate,-0.06048082255302828,Marco Rubio · Abbas Araghchi · JD Vance  ↔  Donald Trump · Strait of Hormuz · IRGC
+Abbas Araghchi,Donald Trump,Joe Biden,-0.06048082255302828,Marco Rubio · Abbas Araghchi · JD Vance  ↔  Donald Trump · Strait of Hormuz · IRGC
+Abbas Araghchi,Donald Trump,Pete Hegseth,-0.06048082255302828,Marco Rubio · Abbas Araghchi · JD Vance  ↔  Donald Trump · Strait of Hormuz · IRGC
+Abbas Araghchi,Donald Trump,Barack Obama,-0.06048082255302828,Marco Rubio · Abbas Araghchi · JD Vance  ↔  Donald Trump · Strait of Hormuz · IRGC
+Abbas Araghchi,Donald Trump,Xi Jinping,-0.06048082255302828,Marco Rubio · Abbas Araghchi · JD Vance  ↔  United Nations · European Union · Vladimir Putin
+Abbas Araghchi,Donald Trump,Congress,-0.06048082255302828,Marco Rubio · Abbas Araghchi · JD Vance  ↔  Donald Trump · Strait of Hormuz · IRGC
+Abbas Araghchi,Donald Trump,Navy,-0.10130281707328345,Marco Rubio · Abbas Araghchi · JD Vance  ↔  Donald Trump · Strait of Hormuz · IRGC
+Steve Witkoff,Donald Trump,Navy,-0.10130281707328345,Marco Rubio · Abbas Araghchi · JD Vance  ↔  Donald Trump · Strait of Hormuz · IRGC
+Shehbaz Sharif,Donald Trump,Navy,-0.10130281707328345,Marco Rubio · Abbas Araghchi · JD Vance  ↔  Donald Trump · Strait of Hormuz · IRGC
+Mohammad Bagher Ghalibaf,Donald Trump,Xi Jinping,-0.10130281707328345,Donald Trump · Strait of Hormuz · IRGC  ↔  United Nations · European Union · Vladimir Putin
+Mohammad Bagher Ghalibaf,Donald Trump,Vladimir Putin,-0.10130281707328345,Donald Trump · Strait of Hormuz · IRGC  ↔  United Nations · European Union · Vladimir Putin
+Mohammad Bagher Ghalibaf,Donald Trump,NATO,-0.10130281707328345,Donald Trump · Strait of Hormuz · IRGC  ↔  Marco Rubio · Abbas Araghchi · JD Vance
+JD Vance,Donald Trump,Navy,-0.10130281707328345,Marco Rubio · Abbas Araghchi · JD Vance  ↔  Donald Trump · Strait of Hormuz · IRGC
+Navy,Donald Trump,Iranian Foreign Ministry,-0.10130281707328345,Donald Trump · Strait of Hormuz · IRGC  ↔  Marco Rubio · Abbas Araghchi · JD Vance
+Xi Jinping,Donald Trump,Navy,-0.10130281707328345,United Nations · European Union · Vladimir Putin  ↔  Donald Trump · Strait of Hormuz · IRGC
+Navy,Donald Trump,Xi,-0.10130281707328345,Donald Trump · Strait of Hormuz · IRGC  ↔  United Nations · European Union · Vladimir Putin
+NATO,Donald Trump,Navy,-0.10130281707328345,Marco Rubio · Abbas Araghchi · JD Vance  ↔  Donald Trump · Strait of Hormuz · IRGC
+Benjamin Netanyahu,Donald Trump,Navy,-0.10130281707328345,Hezbollah · Benjamin Netanyahu · ballistic missile  ↔  Donald Trump · Strait of Hormuz · IRGC
+Mohammad Bagher Ghalibaf,Donald Trump,Shehbaz Sharif,-0.10130281707328345,Donald Trump · Strait of Hormuz · IRGC  ↔  Marco Rubio · Abbas Araghchi · JD Vance
+Vladimir Putin,Donald Trump,Navy,-0.10130281707328345,United Nations · European Union · Vladimir Putin  ↔  Donald Trump · Strait of Hormuz · IRGC
+Mohammad Bagher Ghalibaf,Donald Trump,Iranian Foreign Ministry,-0.10130281707328345,Donald Trump · Strait of Hormuz · IRGC  ↔  Marco Rubio · Abbas Araghchi · JD Vance
+Mohammad Bagher Ghalibaf,Donald Trump,Xi,-0.10130281707328345,Donald Trump · Strait of Hormuz · IRGC  ↔  United Nations · European Union · Vladimir Putin
+Marco Rubio,Donald Trump,Mojtaba Khamenei,-0.14672029676407616,Marco Rubio · Abbas Araghchi · JD Vance  ↔  Donald Trump · Strait of Hormuz · IRGC
+Marco Rubio,Donald Trump,Senate,-0.14672029676407616,Marco Rubio · Abbas Araghchi · JD Vance  ↔  Donald Trump · Strait of Hormuz · IRGC
+Marco Rubio,Donald Trump,CBS,-0.14672029676407616,Marco Rubio · Abbas Araghchi · JD Vance  ↔  Donald Trump · Strait of Hormuz · IRGC
+Marco Rubio,Donald Trump,Joe Biden,-0.14672029676407616,Marco Rubio · Abbas Araghchi · JD Vance  ↔  Donald Trump · Strait of Hormuz · IRGC
+Marco Rubio,Donald Trump,Vladimir Putin,-0.14672029676407616,Marco Rubio · Abbas Araghchi · JD Vance  ↔  United Nations · European Union · Vladimir Putin
+Marco Rubio,Donald Trump,Barack Obama,-0.14672029676407616,Marco Rubio · Abbas Araghchi · JD Vance  ↔  Donald Trump · Strait of Hormuz · IRGC
+Marco Rubio,Donald Trump,Oval Office,-0.14672029676407616,Marco Rubio · Abbas Araghchi · JD Vance  ↔  Donald Trump · Strait of Hormuz · IRGC
+Marco Rubio,Donald Trump,House,-0.14672029676407616,Marco Rubio · Abbas Araghchi · JD Vance  ↔  Donald Trump · Strait of Hormuz · IRGC
+Marco Rubio,Donald Trump,Financial Times,-0.14672029676407616,Marco Rubio · Abbas Araghchi · JD Vance  ↔  Donald Trump · Strait of Hormuz · IRGC
+White House,Donald Trump,Esmaeil Baghaei,-0.17963466034319048,Donald Trump · Strait of Hormuz · IRGC  ↔  Marco Rubio · Abbas Araghchi · JD Vance
+Esmaeil Baghaei,Donald Trump,Pete Hegseth,-0.17963466034319048,Marco Rubio · Abbas Araghchi · JD Vance  ↔  Donald Trump · Strait of Hormuz · IRGC
+Esmaeil Baghaei,Donald Trump,Xi,-0.17963466034319048,Marco Rubio · Abbas Araghchi · JD Vance  ↔  United Nations · European Union · Vladimir Putin
+Esmaeil Baghaei,Donald Trump,Oval Office,-0.17963466034319048,Marco Rubio · Abbas Araghchi · JD Vance  ↔  Donald Trump · Strait of Hormuz · IRGC
+Esmaeil Baghaei,Donald Trump,Navy,-0.17963466034319048,Marco Rubio · Abbas Araghchi · JD Vance  ↔  Donald Trump · Strait of Hormuz · IRGC
+Esmaeil Baghaei,Donald Trump,House,-0.17963466034319048,Marco Rubio · Abbas Araghchi · JD Vance  ↔  Donald Trump · Strait of Hormuz · IRGC
+Donald Trump,Esmaeil Baghaei,Foreign Ministry,-0.17963466034319048,Donald Trump · Strait of Hormuz · IRGC  ↔  Marco Rubio · Abbas Araghchi · JD Vance
+Esmaeil Baghaei,Donald Trump,Barack Obama,-0.17963466034319048,Marco Rubio · Abbas Araghchi · JD Vance  ↔  Donald Trump · Strait of Hormuz · IRGC
+Esmaeil Baghaei,Donald Trump,Mohammad Bagher Ghalibaf,-0.17963466034319048,Marco Rubio · Abbas Araghchi · JD Vance  ↔  Donald Trump · Strait of Hormuz · IRGC
+Esmaeil Baghaei,Donald Trump,Financial Times,-0.17963466034319048,Marco Rubio · Abbas Araghchi · JD Vance  ↔  Donald Trump · Strait of Hormuz · IRGC
+Esmaeil Baghaei,Donald Trump,Vladimir Putin,-0.17963466034319048,Marco Rubio · Abbas Araghchi · JD Vance  ↔  United Nations · European Union · Vladimir Putin
+Benjamin Netanyahu,Donald Trump,Esmaeil Baghaei,-0.17963466034319048,Hezbollah · Benjamin Netanyahu · ballistic missile  ↔  Marco Rubio · Abbas Araghchi · JD Vance
+Mojtaba Khamenei,Donald Trump,Esmaeil Baghaei,-0.17963466034319048,Donald Trump · Strait of Hormuz · IRGC  ↔  Marco Rubio · Abbas Araghchi · JD Vance
+Esmaeil Baghaei,Donald Trump,Senate,-0.17963466034319048,Marco Rubio · Abbas Araghchi · JD Vance  ↔  Donald Trump · Strait of Hormuz · IRGC
+Esmaeil Baghaei,Donald Trump,Congress,-0.17963466034319048,Marco Rubio · Abbas Araghchi · JD Vance  ↔  Donald Trump · Strait of Hormuz · IRGC
+Esmaeil Baghaei,Donald Trump,Joe Biden,-0.17963466034319048,Marco Rubio · Abbas Araghchi · JD Vance  ↔  Donald Trump · Strait of Hormuz · IRGC
+Esmaeil Baghaei,Donald Trump,Xi Jinping,-0.17963466034319048,Marco Rubio · Abbas Araghchi · JD Vance  ↔  United Nations · European Union · Vladimir Putin
+Esmaeil Baghaei,Donald Trump,CBS,-0.17963466034319048,Marco Rubio · Abbas Araghchi · JD Vance  ↔  Donald Trump · Strait of Hormuz · IRGC
+Hezbollah,Ali Khamenei,Masoud Pezeshkian,-0.3007751900433259,Hezbollah · Benjamin Netanyahu · ballistic missile  ↔  Donald Trump · Strait of Hormuz · IRGC
+Ali Khamenei,Hezbollah,Houthis,-0.3007751900433259,Donald Trump · Strait of Hormuz · IRGC  ↔  Hezbollah · Benjamin Netanyahu · ballistic missile
+Ali Khamenei,Hezbollah,Hamas,-0.3007751900433259,Donald Trump · Strait of Hormuz · IRGC  ↔  Hezbollah · Benjamin Netanyahu · ballistic missile
+Hezbollah,Ali Khamenei,Ruhollah Khomeini,-0.3007751900433259,Hezbollah · Benjamin Netanyahu · ballistic missile  ↔  Donald Trump · Strait of Hormuz · IRGC
+Hezbollah,Ali Khamenei,Mojtaba Khamenei,-0.3007751900433259,Hezbollah · Benjamin Netanyahu · ballistic missile  ↔  Donald Trump · Strait of Hormuz · IRGC
+CBS,Donald Trump,Keir,-0.36366708154077454,Donald Trump · Strait of Hormuz · IRGC  ↔  United Nations · European Union · Vladimir Putin
+Iranian Foreign Ministry,Donald Trump,Keir,-0.36366708154077454,Marco Rubio · Abbas Araghchi · JD Vance  ↔  United Nations · European Union · Vladimir Putin
+Senate,Donald Trump,Keir,-0.36366708154077454,Donald Trump · Strait of Hormuz · IRGC  ↔  United Nations · European Union · Vladimir Putin
+Joe Biden,Donald Trump,Keir,-0.36366708154077454,Donald Trump · Strait of Hormuz · IRGC  ↔  United Nations · European Union · Vladimir Putin
+Financial Times,Donald Trump,Keir,-0.36366708154077454,Donald Trump · Strait of Hormuz · IRGC  ↔  United Nations · European Union · Vladimir Putin
+Keir,Donald Trump,House,-0.36366708154077454,United Nations · European Union · Vladimir Putin  ↔  Donald Trump · Strait of Hormuz · IRGC
+Abbas Araghchi,Donald Trump,Keir,-0.36366708154077454,Marco Rubio · Abbas Araghchi · JD Vance  ↔  United Nations · European Union · Vladimir Putin
+Shehbaz Sharif,Donald Trump,Keir,-0.36366708154077454,Marco Rubio · Abbas Araghchi · JD Vance  ↔  United Nations · European Union · Vladimir Putin
+Barack Obama,Donald Trump,Keir,-0.36366708154077454,Donald Trump · Strait of Hormuz · IRGC  ↔  United Nations · European Union · Vladimir Putin
+Mohammad Bagher Ghalibaf,Donald Trump,Keir,-0.36366708154077454,Donald Trump · Strait of Hormuz · IRGC  ↔  United Nations · European Union · Vladimir Putin
+Marco Rubio,Donald Trump,Keir,-0.36366708154077454,Marco Rubio · Abbas Araghchi · JD Vance  ↔  United Nations · European Union · Vladimir Putin
+Benjamin Netanyahu,Donald Trump,Keir,-0.36366708154077454,Hezbollah · Benjamin Netanyahu · ballistic missile  ↔  United Nations · European Union · Vladimir Putin
+White House,Donald Trump,Keir,-0.36366708154077454,Donald Trump · Strait of Hormuz · IRGC  ↔  United Nations · European Union · Vladimir Putin
+Mojtaba Khamenei,Donald Trump,Keir,-0.36366708154077454,Donald Trump · Strait of Hormuz · IRGC  ↔  United Nations · European Union · Vladimir Putin
+Esmaeil Baghaei,Donald Trump,Keir,-0.36366708154077454,Marco Rubio · Abbas Araghchi · JD Vance  ↔  United Nations · European Union · Vladimir Putin
+Pete Hegseth,Donald Trump,Keir,-0.36366708154077454,Donald Trump · Strait of Hormuz · IRGC  ↔  United Nations · European Union · Vladimir Putin
+NATO,Donald Trump,Keir,-0.36366708154077454,Marco Rubio · Abbas Araghchi · JD Vance  ↔  United Nations · European Union · Vladimir Putin
+JD Vance,Donald Trump,Keir,-0.36366708154077454,Marco Rubio · Abbas Araghchi · JD Vance  ↔  United Nations · European Union · Vladimir Putin
+Steve Witkoff,Donald Trump,Keir,-0.36366708154077454,Marco Rubio · Abbas Araghchi · JD Vance  ↔  United Nations · European Union · Vladimir Putin
+Congress,Donald Trump,Keir,-0.36366708154077454,Donald Trump · Strait of Hormuz · IRGC  ↔  United Nations · European Union · Vladimir Putin
+Oval Office,Donald Trump,Keir,-0.36366708154077454,Donald Trump · Strait of Hormuz · IRGC  ↔  United Nations · European Union · Vladimir Putin
+Navy,Donald Trump,Keir,-0.36366708154077454,Donald Trump · Strait of Hormuz · IRGC  ↔  United Nations · European Union · Vladimir Putin
+White House,Donald Trump,Keir Starmer,-0.4185436917666088,Donald Trump · Strait of Hormuz · IRGC  ↔  United Nations · European Union · Vladimir Putin
+Keir Starmer,Donald Trump,Navy,-0.4185436917666088,United Nations · European Union · Vladimir Putin  ↔  Donald Trump · Strait of Hormuz · IRGC
+Keir Starmer,Donald Trump,House,-0.4185436917666088,United Nations · European Union · Vladimir Putin  ↔  Donald Trump · Strait of Hormuz · IRGC
+Pete Hegseth,Donald Trump,Keir Starmer,-0.4185436917666088,Donald Trump · Strait of Hormuz · IRGC  ↔  United Nations · European Union · Vladimir Putin
+Mohammad Bagher Ghalibaf,Donald Trump,Keir Starmer,-0.4185436917666088,Donald Trump · Strait of Hormuz · IRGC  ↔  United Nations · European Union · Vladimir Putin
+Keir Starmer,Donald Trump,Congress,-0.4185436917666088,United Nations · European Union · Vladimir Putin  ↔  Donald Trump · Strait of Hormuz · IRGC
+Keir Starmer,Donald Trump,Oval Office,-0.4185436917666088,United Nations · European Union · Vladimir Putin  ↔  Donald Trump · Strait of Hormuz · IRGC
+Benjamin Netanyahu,Donald Trump,Keir Starmer,-0.4185436917666088,Hezbollah · Benjamin Netanyahu · ballistic missile  ↔  United Nations · European Union · Vladimir Putin
+Marco Rubio,Donald Trump,Keir Starmer,-0.4185436917666088,Marco Rubio · Abbas Araghchi · JD Vance  ↔  United Nations · European Union · Vladimir Putin
+Abbas Araghchi,Donald Trump,Keir Starmer,-0.4185436917666088,Marco Rubio · Abbas Araghchi · JD Vance  ↔  United Nations · European Union · Vladimir Putin
+Mojtaba Khamenei,Donald Trump,Keir Starmer,-0.4185436917666088,Donald Trump · Strait of Hormuz · IRGC  ↔  United Nations · European Union · Vladimir Putin
+Keir Starmer,Donald Trump,Iranian Foreign Ministry,-0.4185436917666088,United Nations · European Union · Vladimir Putin  ↔  Marco Rubio · Abbas Araghchi · JD Vance
+Keir Starmer,Donald Trump,Financial Times,-0.4185436917666088,United Nations · European Union · Vladimir Putin  ↔  Donald Trump · Strait of Hormuz · IRGC
+Keir Starmer,Donald Trump,Joe Biden,-0.4185436917666088,United Nations · European Union · Vladimir Putin  ↔  Donald Trump · Strait of Hormuz · IRGC
+Keir Starmer,Donald Trump,Senate,-0.4185436917666088,United Nations · European Union · Vladimir Putin  ↔  Donald Trump · Strait of Hormuz · IRGC
+Keir Starmer,Donald Trump,CBS,-0.4185436917666088,United Nations · European Union · Vladimir Putin  ↔  Donald Trump · Strait of Hormuz · IRGC
+Keir Starmer,Donald Trump,Steve Witkoff,-0.4185436917666088,United Nations · European Union · Vladimir Putin  ↔  Marco Rubio · Abbas Araghchi · JD Vance
+JD Vance,Donald Trump,Keir Starmer,-0.4185436917666088,Marco Rubio · Abbas Araghchi · JD Vance  ↔  United Nations · European Union · Vladimir Putin
+Esmaeil Baghaei,Donald Trump,Keir Starmer,-0.4185436917666088,Marco Rubio · Abbas Araghchi · JD Vance  ↔  United Nations · European Union · Vladimir Putin
+Keir Starmer,Donald Trump,Barack Obama,-0.4185436917666088,United Nations · European Union · Vladimir Putin  ↔  Donald Trump · Strait of Hormuz · IRGC
+Keir Starmer,Donald Trump,Shehbaz Sharif,-0.4185436917666088,United Nations · European Union · Vladimir Putin  ↔  Marco Rubio · Abbas Araghchi · JD Vance
+Keir Starmer,Donald Trump,NATO,-0.4185436917666088,United Nations · European Union · Vladimir Putin  ↔  Marco Rubio · Abbas Araghchi · JD Vance
+Xi Jinping,Donald Trump,US Navy,-0.44725379764904016,United Nations · European Union · Vladimir Putin  ↔  drone · US Navy · cruise missile
+US Navy,Donald Trump,Joe Biden,-0.44725379764904016,drone · US Navy · cruise missile  ↔  Donald Trump · Strait of Hormuz · IRGC
+US Navy,Donald Trump,Senate,-0.44725379764904016,drone · US Navy · cruise missile  ↔  Donald Trump · Strait of Hormuz · IRGC
+US Navy,Donald Trump,Navy,-0.44725379764904016,drone · US Navy · cruise missile  ↔  Donald Trump · Strait of Hormuz · IRGC
+US Navy,Donald Trump,Steve Witkoff,-0.44725379764904016,drone · US Navy · cruise missile  ↔  Marco Rubio · Abbas Araghchi · JD Vance
+Abbas Araghchi,Donald Trump,US Navy,-0.44725379764904016,Marco Rubio · Abbas Araghchi · JD Vance  ↔  drone · US Navy · cruise missile
+Keir Starmer,Donald Trump,US Navy,-0.44725379764904016,United Nations · European Union · Vladimir Putin  ↔  drone · US Navy · cruise missile
+Mohammad Bagher Ghalibaf,Donald Trump,US Navy,-0.44725379764904016,Donald Trump · Strait of Hormuz · IRGC  ↔  drone · US Navy · cruise missile
+Mojtaba Khamenei,Donald Trump,US Navy,-0.44725379764904016,Donald Trump · Strait of Hormuz · IRGC  ↔  drone · US Navy · cruise missile
+NATO,Donald Trump,US Navy,-0.44725379764904016,Marco Rubio · Abbas Araghchi · JD Vance  ↔  drone · US Navy · cruise missile
+JD Vance,Donald Trump,US Navy,-0.44725379764904016,Marco Rubio · Abbas Araghchi · JD Vance  ↔  drone · US Navy · cruise missile
+Esmaeil Baghaei,Donald Trump,US Navy,-0.44725379764904016,Marco Rubio · Abbas Araghchi · JD Vance  ↔  drone · US Navy · cruise missile
+Pete Hegseth,Donald Trump,US Navy,-0.44725379764904016,Donald Trump · Strait of Hormuz · IRGC  ↔  drone · US Navy · cruise missile
+Shehbaz Sharif,Donald Trump,US Navy,-0.44725379764904016,Marco Rubio · Abbas Araghchi · JD Vance  ↔  drone · US Navy · cruise missile
+White House,Donald Trump,US Navy,-0.44725379764904016,Donald Trump · Strait of Hormuz · IRGC  ↔  drone · US Navy · cruise missile
+Vladimir Putin,Donald Trump,US Navy,-0.44725379764904016,United Nations · European Union · Vladimir Putin  ↔  drone · US Navy · cruise missile
+US Navy,Donald Trump,CBS,-0.44725379764904016,drone · US Navy · cruise missile  ↔  Donald Trump · Strait of Hormuz · IRGC
+US Navy,Donald Trump,Keir,-0.44725379764904016,drone · US Navy · cruise missile  ↔  United Nations · European Union · Vladimir Putin
+US Navy,Donald Trump,Iranian Foreign Ministry,-0.44725379764904016,drone · US Navy · cruise missile  ↔  Marco Rubio · Abbas Araghchi · JD Vance
+US Navy,Donald Trump,House,-0.44725379764904016,drone · US Navy · cruise missile  ↔  Donald Trump · Strait of Hormuz · IRGC
+US Navy,Donald Trump,Oval Office,-0.44725379764904016,drone · US Navy · cruise missile  ↔  Donald Trump · Strait of Hormuz · IRGC
+US Navy,Donald Trump,Xi,-0.44725379764904016,drone · US Navy · cruise missile  ↔  United Nations · European Union · Vladimir Putin
+US Navy,Donald Trump,Financial Times,-0.44725379764904016,drone · US Navy · cruise missile  ↔  Donald Trump · Strait of Hormuz · IRGC
+Congress,Donald Trump,US Navy,-0.44725379764904016,Donald Trump · Strait of Hormuz · IRGC  ↔  drone · US Navy · cruise missile
+Marco Rubio,Donald Trump,US Navy,-0.44725379764904016,Marco Rubio · Abbas Araghchi · JD Vance  ↔  drone · US Navy · cruise missile
+Barack Obama,Donald Trump,US Navy,-0.44725379764904016,Donald Trump · Strait of Hormuz · IRGC  ↔  drone · US Navy · cruise missile
+Benjamin Netanyahu,Donald Trump,US Navy,-0.44725379764904016,Hezbollah · Benjamin Netanyahu · ballistic missile  ↔  drone · US Navy · cruise missile
+Ali Khamenei,Benjamin Netanyahu,JD Vance,-0.6586005511351078,Donald Trump · Strait of Hormuz · IRGC  ↔  Marco Rubio · Abbas Araghchi · JD Vance
+Benjamin Netanyahu,Ali Khamenei,Ruhollah Khomeini,-0.6586005511351078,Hezbollah · Benjamin Netanyahu · ballistic missile  ↔  Donald Trump · Strait of Hormuz · IRGC
+IRGC,Hezbollah,Hamas,-0.6733831329937151,Donald Trump · Strait of Hormuz · IRGC  ↔  Hezbollah · Benjamin Netanyahu · ballistic missile
+Hezbollah,IRGC,Treasury,-0.6733831329937151,Hezbollah · Benjamin Netanyahu · ballistic missile  ↔  Treasury · Scott Bessent · US Treasury
+Hezbollah,IRGC,Supreme National Security Council,-0.6733831329937151,Hezbollah · Benjamin Netanyahu · ballistic missile  ↔  Donald Trump · Strait of Hormuz · IRGC
+Hezbollah,IRGC,Marco Rubio,-0.6733831329937151,Hezbollah · Benjamin Netanyahu · ballistic missile  ↔  Marco Rubio · Abbas Araghchi · JD Vance
+Hezbollah,IRGC,Khamenei,-0.6733831329937151,Hezbollah · Benjamin Netanyahu · ballistic missile  ↔  Donald Trump · Strait of Hormuz · IRGC
+Hezbollah,IRGC,Mohammad Bagher Ghalibaf,-0.6733831329937151,Hezbollah · Benjamin Netanyahu · ballistic missile  ↔  Donald Trump · Strait of Hormuz · IRGC
+IRGC,Hezbollah,Houthis,-0.6733831329937151,Donald Trump · Strait of Hormuz · IRGC  ↔  Hezbollah · Benjamin Netanyahu · ballistic missile
+Hezbollah,IRGC,Navy,-0.6733831329937151,Hezbollah · Benjamin Netanyahu · ballistic missile  ↔  Donald Trump · Strait of Hormuz · IRGC
+Keir Starmer,Donald Trump,Khamenei,-0.6828975117274815,United Nations · European Union · Vladimir Putin  ↔  Donald Trump · Strait of Hormuz · IRGC
+Esmaeil Baghaei,Donald Trump,Khamenei,-0.6828975117274815,Marco Rubio · Abbas Araghchi · JD Vance  ↔  Donald Trump · Strait of Hormuz · IRGC
+JD Vance,Donald Trump,Khamenei,-0.6828975117274815,Marco Rubio · Abbas Araghchi · JD Vance  ↔  Donald Trump · Strait of Hormuz · IRGC
+Khamenei,Donald Trump,Vladimir Putin,-0.6828975117274815,Donald Trump · Strait of Hormuz · IRGC  ↔  United Nations · European Union · Vladimir Putin
+NATO,Donald Trump,Khamenei,-0.6828975117274815,Marco Rubio · Abbas Araghchi · JD Vance  ↔  Donald Trump · Strait of Hormuz · IRGC
+Shehbaz Sharif,Donald Trump,Khamenei,-0.6828975117274815,Marco Rubio · Abbas Araghchi · JD Vance  ↔  Donald Trump · Strait of Hormuz · IRGC
+Benjamin Netanyahu,Donald Trump,Khamenei,-0.6828975117274815,Hezbollah · Benjamin Netanyahu · ballistic missile  ↔  Donald Trump · Strait of Hormuz · IRGC
+Khamenei,Donald Trump,US Navy,-0.6828975117274815,Donald Trump · Strait of Hormuz · IRGC  ↔  drone · US Navy · cruise missile
+Khamenei,Donald Trump,Keir,-0.6828975117274815,Donald Trump · Strait of Hormuz · IRGC  ↔  United Nations · European Union · Vladimir Putin
+Khamenei,Donald Trump,Iranian Foreign Ministry,-0.6828975117274815,Donald Trump · Strait of Hormuz · IRGC  ↔  Marco Rubio · Abbas Araghchi · JD Vance
+Khamenei,Donald Trump,Xi,-0.6828975117274815,Donald Trump · Strait of Hormuz · IRGC  ↔  United Nations · European Union · Vladimir Putin
+Khamenei,Donald Trump,Steve Witkoff,-0.6828975117274815,Donald Trump · Strait of Hormuz · IRGC  ↔  Marco Rubio · Abbas Araghchi · JD Vance
+Abbas Araghchi,Donald Trump,Khamenei,-0.6828975117274815,Marco Rubio · Abbas Araghchi · JD Vance  ↔  Donald Trump · Strait of Hormuz · IRGC
+Khamenei,Donald Trump,Xi Jinping,-0.6828975117274815,Donald Trump · Strait of Hormuz · IRGC  ↔  United Nations · European Union · Vladimir Putin
+Ali Khamenei,Donald Trump,Iranian Foreign Ministry,-0.7719771417811702,Donald Trump · Strait of Hormuz · IRGC  ↔  Marco Rubio · Abbas Araghchi · JD Vance
+Ali Khamenei,Donald Trump,Xi,-0.7719771417811702,Donald Trump · Strait of Hormuz · IRGC  ↔  United Nations · European Union · Vladimir Putin
+Ali Khamenei,Donald Trump,US Navy,-0.7719771417811702,Donald Trump · Strait of Hormuz · IRGC  ↔  drone · US Navy · cruise missile
+Ali Khamenei,Donald Trump,Shehbaz Sharif,-0.7719771417811702,Donald Trump · Strait of Hormuz · IRGC  ↔  Marco Rubio · Abbas Araghchi · JD Vance
+Ali Khamenei,Donald Trump,Keir Starmer,-0.7719771417811702,Donald Trump · Strait of Hormuz · IRGC  ↔  United Nations · European Union · Vladimir Putin
+Ali Khamenei,Donald Trump,Steve Witkoff,-0.7719771417811702,Donald Trump · Strait of Hormuz · IRGC  ↔  Marco Rubio · Abbas Araghchi · JD Vance
+Ali Khamenei,Donald Trump,Esmaeil Baghaei,-0.7719771417811702,Donald Trump · Strait of Hormuz · IRGC  ↔  Marco Rubio · Abbas Araghchi · JD Vance
+Ali Khamenei,Donald Trump,NATO,-0.7719771417811702,Donald Trump · Strait of Hormuz · IRGC  ↔  Marco Rubio · Abbas Araghchi · JD Vance
+Ali Khamenei,Donald Trump,Xi Jinping,-0.7719771417811702,Donald Trump · Strait of Hormuz · IRGC  ↔  United Nations · European Union · Vladimir Putin
+Ali Khamenei,Donald Trump,Keir,-0.7719771417811702,Donald Trump · Strait of Hormuz · IRGC  ↔  United Nations · European Union · Vladimir Putin
+Ali Khamenei,Donald Trump,Vladimir Putin,-0.7719771417811702,Donald Trump · Strait of Hormuz · IRGC  ↔  United Nations · European Union · Vladimir Putin
+Hamas,Donald Trump,Oval Office,-0.831837529704849,Hezbollah · Benjamin Netanyahu · ballistic missile  ↔  Donald Trump · Strait of Hormuz · IRGC
+Keir Starmer,Donald Trump,Hamas,-0.831837529704849,United Nations · European Union · Vladimir Putin  ↔  Hezbollah · Benjamin Netanyahu · ballistic missile
+Hamas,Donald Trump,Steve Witkoff,-0.831837529704849,Hezbollah · Benjamin Netanyahu · ballistic missile  ↔  Marco Rubio · Abbas Araghchi · JD Vance
+Hamas,Donald Trump,Navy,-0.831837529704849,Hezbollah · Benjamin Netanyahu · ballistic missile  ↔  Donald Trump · Strait of Hormuz · IRGC
+Hamas,Donald Trump,Senate,-0.831837529704849,Hezbollah · Benjamin Netanyahu · ballistic missile  ↔  Donald Trump · Strait of Hormuz · IRGC
+Hamas,Donald Trump,Financial Times,-0.831837529704849,Hezbollah · Benjamin Netanyahu · ballistic missile  ↔  Donald Trump · Strait of Hormuz · IRGC
+Pete Hegseth,Donald Trump,Hamas,-0.831837529704849,Donald Trump · Strait of Hormuz · IRGC  ↔  Hezbollah · Benjamin Netanyahu · ballistic missile
+Hamas,Donald Trump,Joe Biden,-0.831837529704849,Hezbollah · Benjamin Netanyahu · ballistic missile  ↔  Donald Trump · Strait of Hormuz · IRGC
+Hamas,Donald Trump,US Navy,-0.831837529704849,Hezbollah · Benjamin Netanyahu · ballistic missile  ↔  drone · US Navy · cruise missile
+Donald Trump,Hamas,Houthis,-0.831837529704849,Donald Trump · Strait of Hormuz · IRGC  ↔  Hezbollah · Benjamin Netanyahu · ballistic missile
+White House,Donald Trump,Hamas,-0.831837529704849,Donald Trump · Strait of Hormuz · IRGC  ↔  Hezbollah · Benjamin Netanyahu · ballistic missile
+Hamas,Donald Trump,Vladimir Putin,-0.831837529704849,Hezbollah · Benjamin Netanyahu · ballistic missile  ↔  United Nations · European Union · Vladimir Putin
+Congress,Donald Trump,Hamas,-0.831837529704849,Donald Trump · Strait of Hormuz · IRGC  ↔  Hezbollah · Benjamin Netanyahu · ballistic missile
+Hamas,Donald Trump,Xi Jinping,-0.831837529704849,Hezbollah · Benjamin Netanyahu · ballistic missile  ↔  United Nations · European Union · Vladimir Putin
+Hamas,Donald Trump,House,-0.831837529704849,Hezbollah · Benjamin Netanyahu · ballistic missile  ↔  Donald Trump · Strait of Hormuz · IRGC
+Barack Obama,Donald Trump,Hamas,-0.831837529704849,Donald Trump · Strait of Hormuz · IRGC  ↔  Hezbollah · Benjamin Netanyahu · ballistic missile
+Marco Rubio,Donald Trump,Hamas,-0.831837529704849,Marco Rubio · Abbas Araghchi · JD Vance  ↔  Hezbollah · Benjamin Netanyahu · ballistic missile
+Shehbaz Sharif,Donald Trump,Hamas,-0.831837529704849,Marco Rubio · Abbas Araghchi · JD Vance  ↔  Hezbollah · Benjamin Netanyahu · ballistic missile
+Mojtaba Khamenei,Donald Trump,Hamas,-0.831837529704849,Donald Trump · Strait of Hormuz · IRGC  ↔  Hezbollah · Benjamin Netanyahu · ballistic missile
+Hamas,Donald Trump,Iranian Foreign Ministry,-0.831837529704849,Hezbollah · Benjamin Netanyahu · ballistic missile  ↔  Marco Rubio · Abbas Araghchi · JD Vance
+Hamas,Donald Trump,Keir,-0.831837529704849,Hezbollah · Benjamin Netanyahu · ballistic missile  ↔  United Nations · European Union · Vladimir Putin
+Esmaeil Baghaei,Donald Trump,Hamas,-0.831837529704849,Marco Rubio · Abbas Araghchi · JD Vance  ↔  Hezbollah · Benjamin Netanyahu · ballistic missile
+NATO,Donald Trump,Hamas,-0.831837529704849,Marco Rubio · Abbas Araghchi · JD Vance  ↔  Hezbollah · Benjamin Netanyahu · ballistic missile
+Mohammad Bagher Ghalibaf,Donald Trump,Hamas,-0.831837529704849,Donald Trump · Strait of Hormuz · IRGC  ↔  Hezbollah · Benjamin Netanyahu · ballistic missile
+Khamenei,Donald Trump,Hamas,-0.831837529704849,Donald Trump · Strait of Hormuz · IRGC  ↔  Hezbollah · Benjamin Netanyahu · ballistic missile
+Hamas,Donald Trump,Xi,-0.831837529704849,Hezbollah · Benjamin Netanyahu · ballistic missile  ↔  United Nations · European Union · Vladimir Putin
+Pentagon,Donald Trump,NATO,-0.8897601774375536,Donald Trump · Strait of Hormuz · IRGC  ↔  Marco Rubio · Abbas Araghchi · JD Vance
+Benjamin Netanyahu,Donald Trump,Pentagon,-0.8897601774375536,Hezbollah · Benjamin Netanyahu · ballistic missile  ↔  Donald Trump · Strait of Hormuz · IRGC
+Pentagon,Donald Trump,Esmaeil Baghaei,-0.8897601774375536,Donald Trump · Strait of Hormuz · IRGC  ↔  Marco Rubio · Abbas Araghchi · JD Vance
+Pentagon,Donald Trump,Hamas,-0.8897601774375536,Donald Trump · Strait of Hormuz · IRGC  ↔  Hezbollah · Benjamin Netanyahu · ballistic missile
+Pentagon,Donald Trump,Keir Starmer,-0.8897601774375536,Donald Trump · Strait of Hormuz · IRGC  ↔  United Nations · European Union · Vladimir Putin
+Abbas Araghchi,Donald Trump,Pentagon,-0.8897601774375536,Marco Rubio · Abbas Araghchi · JD Vance  ↔  Donald Trump · Strait of Hormuz · IRGC
+Pentagon,Donald Trump,Steve Witkoff,-0.8897601774375536,Donald Trump · Strait of Hormuz · IRGC  ↔  Marco Rubio · Abbas Araghchi · JD Vance
+Pentagon,Donald Trump,Iranian Foreign Ministry,-0.8897601774375536,Donald Trump · Strait of Hormuz · IRGC  ↔  Marco Rubio · Abbas Araghchi · JD Vance
+Pentagon,Donald Trump,US Navy,-0.8897601774375536,Donald Trump · Strait of Hormuz · IRGC  ↔  drone · US Navy · cruise missile
+Pentagon,Donald Trump,Keir,-0.8897601774375536,Donald Trump · Strait of Hormuz · IRGC  ↔  United Nations · European Union · Vladimir Putin
+Pentagon,Donald Trump,Shehbaz Sharif,-0.8897601774375536,Donald Trump · Strait of Hormuz · IRGC  ↔  Marco Rubio · Abbas Araghchi · JD Vance
+Pentagon,Donald Trump,Vladimir Putin,-0.8897601774375536,Donald Trump · Strait of Hormuz · IRGC  ↔  United Nations · European Union · Vladimir Putin
+IAEA,Donald Trump,Hamas,-1.0931819062715946,IAEA · Natanz · Isfahan  ↔  Hezbollah · Benjamin Netanyahu · ballistic missile
+Mojtaba Khamenei,Donald Trump,IAEA,-1.0931819062715946,Donald Trump · Strait of Hormuz · IRGC  ↔  IAEA · Natanz · Isfahan
+Abbas Araghchi,Donald Trump,IAEA,-1.0931819062715946,Marco Rubio · Abbas Araghchi · JD Vance  ↔  IAEA · Natanz · Isfahan
+Marco Rubio,Donald Trump,IAEA,-1.0931819062715946,Marco Rubio · Abbas Araghchi · JD Vance  ↔  IAEA · Natanz · Isfahan
+Donald Trump,IAEA,UN Security Council,-1.0931819062715946,Donald Trump · Strait of Hormuz · IRGC  ↔  United Nations · European Union · Vladimir Putin
+Ali Khamenei,Donald Trump,IAEA,-1.0931819062715946,Donald Trump · Strait of Hormuz · IRGC  ↔  IAEA · Natanz · Isfahan
+IAEA,Donald Trump,Steve Witkoff,-1.0931819062715946,IAEA · Natanz · Isfahan  ↔  Marco Rubio · Abbas Araghchi · JD Vance
+IAEA,Donald Trump,Mohammad Bagher Ghalibaf,-1.0931819062715946,IAEA · Natanz · Isfahan  ↔  Donald Trump · Strait of Hormuz · IRGC
+IAEA,Donald Trump,Navy,-1.0931819062715946,IAEA · Natanz · Isfahan  ↔  Donald Trump · Strait of Hormuz · IRGC
+IAEA,Donald Trump,Keir Starmer,-1.0931819062715946,IAEA · Natanz · Isfahan  ↔  United Nations · European Union · Vladimir Putin
+IAEA,Donald Trump,Shehbaz Sharif,-1.0931819062715946,IAEA · Natanz · Isfahan  ↔  Marco Rubio · Abbas Araghchi · JD Vance
+IAEA,Donald Trump,Vladimir Putin,-1.0931819062715946,IAEA · Natanz · Isfahan  ↔  United Nations · European Union · Vladimir Putin
+IAEA,Donald Trump,Pete Hegseth,-1.0931819062715946,IAEA · Natanz · Isfahan  ↔  Donald Trump · Strait of Hormuz · IRGC
+IAEA,Donald Trump,Esmaeil Baghaei,-1.0931819062715946,IAEA · Natanz · Isfahan  ↔  Marco Rubio · Abbas Araghchi · JD Vance
+IAEA,Donald Trump,JD Vance,-1.0931819062715946,IAEA · Natanz · Isfahan  ↔  Marco Rubio · Abbas Araghchi · JD Vance
+IAEA,Donald Trump,Xi,-1.0931819062715946,IAEA · Natanz · Isfahan  ↔  United Nations · European Union · Vladimir Putin
+IAEA,Donald Trump,Oval Office,-1.0931819062715946,IAEA · Natanz · Isfahan  ↔  Donald Trump · Strait of Hormuz · IRGC
+IAEA,Donald Trump,Joe Biden,-1.0931819062715946,IAEA · Natanz · Isfahan  ↔  Donald Trump · Strait of Hormuz · IRGC
+IAEA,Donald Trump,Senate,-1.0931819062715946,IAEA · Natanz · Isfahan  ↔  Donald Trump · Strait of Hormuz · IRGC
+IAEA,Donald Trump,Xi Jinping,-1.0931819062715946,IAEA · Natanz · Isfahan  ↔  United Nations · European Union · Vladimir Putin
+IAEA,Donald Trump,US Navy,-1.0931819062715946,IAEA · Natanz · Isfahan  ↔  drone · US Navy · cruise missile
+IAEA,Donald Trump,Congress,-1.0931819062715946,IAEA · Natanz · Isfahan  ↔  Donald Trump · Strait of Hormuz · IRGC
+IAEA,Donald Trump,Khamenei,-1.0931819062715946,IAEA · Natanz · Isfahan  ↔  Donald Trump · Strait of Hormuz · IRGC
+IAEA,Donald Trump,NATO,-1.0931819062715946,IAEA · Natanz · Isfahan  ↔  Marco Rubio · Abbas Araghchi · JD Vance
+IAEA,Donald Trump,Barack Obama,-1.0931819062715946,IAEA · Natanz · Isfahan  ↔  Donald Trump · Strait of Hormuz · IRGC
+White House,Donald Trump,IAEA,-1.0931819062715946,Donald Trump · Strait of Hormuz · IRGC  ↔  IAEA · Natanz · Isfahan
+IAEA,Donald Trump,Iranian Foreign Ministry,-1.0931819062715946,IAEA · Natanz · Isfahan  ↔  Marco Rubio · Abbas Araghchi · JD Vance
+IAEA,Donald Trump,Financial Times,-1.0931819062715946,IAEA · Natanz · Isfahan  ↔  Donald Trump · Strait of Hormuz · IRGC
+Pentagon,Donald Trump,IAEA,-1.0931819062715946,Donald Trump · Strait of Hormuz · IRGC  ↔  IAEA · Natanz · Isfahan
+IAEA,Donald Trump,House,-1.0931819062715946,IAEA · Natanz · Isfahan  ↔  Donald Trump · Strait of Hormuz · IRGC
+IAEA,Donald Trump,Keir,-1.0931819062715946,IAEA · Natanz · Isfahan  ↔  United Nations · European Union · Vladimir Putin
+IAEA,Donald Trump,CBS,-1.0931819062715946,IAEA · Natanz · Isfahan  ↔  Donald Trump · Strait of Hormuz · IRGC
+Benjamin Netanyahu,Donald Trump,IAEA,-1.0931819062715946,Hezbollah · Benjamin Netanyahu · ballistic missile  ↔  IAEA · Natanz · Isfahan
+Hezbollah,Donald Trump,Esmaeil Baghaei,-1.149071552760119,Hezbollah · Benjamin Netanyahu · ballistic missile  ↔  Marco Rubio · Abbas Araghchi · JD Vance
+Hezbollah,Donald Trump,Pete Hegseth,-1.149071552760119,Hezbollah · Benjamin Netanyahu · ballistic missile  ↔  Donald Trump · Strait of Hormuz · IRGC
+Hezbollah,Donald Trump,House,-1.149071552760119,Hezbollah · Benjamin Netanyahu · ballistic missile  ↔  Donald Trump · Strait of Hormuz · IRGC
+Hezbollah,Donald Trump,Keir,-1.149071552760119,Hezbollah · Benjamin Netanyahu · ballistic missile  ↔  United Nations · European Union · Vladimir Putin
+White House,Donald Trump,Hezbollah,-1.149071552760119,Donald Trump · Strait of Hormuz · IRGC  ↔  Hezbollah · Benjamin Netanyahu · ballistic missile
+Hezbollah,Donald Trump,Keir Starmer,-1.149071552760119,Hezbollah · Benjamin Netanyahu · ballistic missile  ↔  United Nations · European Union · Vladimir Putin
+Hezbollah,Donald Trump,Barack Obama,-1.149071552760119,Hezbollah · Benjamin Netanyahu · ballistic missile  ↔  Donald Trump · Strait of Hormuz · IRGC
+Hezbollah,Donald Trump,Shehbaz Sharif,-1.149071552760119,Hezbollah · Benjamin Netanyahu · ballistic missile  ↔  Marco Rubio · Abbas Araghchi · JD Vance
+Hezbollah,Donald Trump,Senate,-1.149071552760119,Hezbollah · Benjamin Netanyahu · ballistic missile  ↔  Donald Trump · Strait of Hormuz · IRGC
+Hezbollah,Donald Trump,Steve Witkoff,-1.149071552760119,Hezbollah · Benjamin Netanyahu · ballistic missile  ↔  Marco Rubio · Abbas Araghchi · JD Vance
+Hezbollah,Donald Trump,US Navy,-1.149071552760119,Hezbollah · Benjamin Netanyahu · ballistic missile  ↔  drone · US Navy · cruise missile
+Hezbollah,Donald Trump,Joe Biden,-1.149071552760119,Hezbollah · Benjamin Netanyahu · ballistic missile  ↔  Donald Trump · Strait of Hormuz · IRGC
+Hezbollah,Donald Trump,Xi Jinping,-1.149071552760119,Hezbollah · Benjamin Netanyahu · ballistic missile  ↔  United Nations · European Union · Vladimir Putin
+Hezbollah,Donald Trump,Vladimir Putin,-1.149071552760119,Hezbollah · Benjamin Netanyahu · ballistic missile  ↔  United Nations · European Union · Vladimir Putin
+Hezbollah,Donald Trump,Congress,-1.149071552760119,Hezbollah · Benjamin Netanyahu · ballistic missile  ↔  Donald Trump · Strait of Hormuz · IRGC
+Hezbollah,Donald Trump,NATO,-1.149071552760119,Hezbollah · Benjamin Netanyahu · ballistic missile  ↔  Marco Rubio · Abbas Araghchi · JD Vance
+Hezbollah,Donald Trump,Financial Times,-1.149071552760119,Hezbollah · Benjamin Netanyahu · ballistic missile  ↔  Donald Trump · Strait of Hormuz · IRGC
+Hezbollah,Donald Trump,Oval Office,-1.149071552760119,Hezbollah · Benjamin Netanyahu · ballistic missile  ↔  Donald Trump · Strait of Hormuz · IRGC
+Hezbollah,Donald Trump,Pentagon,-1.149071552760119,Hezbollah · Benjamin Netanyahu · ballistic missile  ↔  Donald Trump · Strait of Hormuz · IRGC
+Hezbollah,Donald Trump,Xi,-1.149071552760119,Hezbollah · Benjamin Netanyahu · ballistic missile  ↔  United Nations · European Union · Vladimir Putin
+Hezbollah,Donald Trump,Iranian Foreign Ministry,-1.149071552760119,Hezbollah · Benjamin Netanyahu · ballistic missile  ↔  Marco Rubio · Abbas Araghchi · JD Vance
+Hezbollah,Donald Trump,IAEA,-1.149071552760119,Hezbollah · Benjamin Netanyahu · ballistic missile  ↔  IAEA · Natanz · Isfahan
+IRGC,Donald Trump,Iranian Foreign Ministry,-1.550050192839724,Donald Trump · Strait of Hormuz · IRGC  ↔  Marco Rubio · Abbas Araghchi · JD Vance
+IRGC,Donald Trump,Xi,-1.550050192839724,Donald Trump · Strait of Hormuz · IRGC  ↔  United Nations · European Union · Vladimir Putin
+IRGC,Donald Trump,Steve Witkoff,-1.550050192839724,Donald Trump · Strait of Hormuz · IRGC  ↔  Marco Rubio · Abbas Araghchi · JD Vance
+IRGC,Donald Trump,Keir,-1.550050192839724,Donald Trump · Strait of Hormuz · IRGC  ↔  United Nations · European Union · Vladimir Putin
+IRGC,Donald Trump,Xi Jinping,-1.550050192839724,Donald Trump · Strait of Hormuz · IRGC  ↔  United Nations · European Union · Vladimir Putin
+IRGC,Donald Trump,Vladimir Putin,-1.550050192839724,Donald Trump · Strait of Hormuz · IRGC  ↔  United Nations · European Union · Vladimir Putin
+IRGC,Donald Trump,Shehbaz Sharif,-1.550050192839724,Donald Trump · Strait of Hormuz · IRGC  ↔  Marco Rubio · Abbas Araghchi · JD Vance
+IRGC,Donald Trump,Keir Starmer,-1.550050192839724,Donald Trump · Strait of Hormuz · IRGC  ↔  United Nations · European Union · Vladimir Putin
+IRGC,Donald Trump,Esmaeil Baghaei,-1.550050192839724,Donald Trump · Strait of Hormuz · IRGC  ↔  Marco Rubio · Abbas Araghchi · JD Vance
+IRGC,Donald Trump,IAEA,-1.550050192839724,Donald Trump · Strait of Hormuz · IRGC  ↔  IAEA · Natanz · Isfahan
+CENTCOM,Donald Trump,Mojtaba Khamenei,-1.8743701532891859,CENTCOM · tanker · oil tanker  ↔  Donald Trump · Strait of Hormuz · IRGC
+CENTCOM,Donald Trump,Abbas Araghchi,-1.8743701532891859,CENTCOM · tanker · oil tanker  ↔  Marco Rubio · Abbas Araghchi · JD Vance
+CENTCOM,Donald Trump,Pentagon,-1.8743701532891859,CENTCOM · tanker · oil tanker  ↔  Donald Trump · Strait of Hormuz · IRGC
+CENTCOM,Donald Trump,IAEA,-1.8743701532891859,CENTCOM · tanker · oil tanker  ↔  IAEA · Natanz · Isfahan
+CENTCOM,Donald Trump,JD Vance,-1.8743701532891859,CENTCOM · tanker · oil tanker  ↔  Marco Rubio · Abbas Araghchi · JD Vance
+CENTCOM,Donald Trump,Esmaeil Baghaei,-1.8743701532891859,CENTCOM · tanker · oil tanker  ↔  Marco Rubio · Abbas Araghchi · JD Vance
+CENTCOM,Donald Trump,NATO,-1.8743701532891859,CENTCOM · tanker · oil tanker  ↔  Marco Rubio · Abbas Araghchi · JD Vance
+CENTCOM,Donald Trump,Congress,-1.8743701532891859,CENTCOM · tanker · oil tanker  ↔  Donald Trump · Strait of Hormuz · IRGC
+CENTCOM,Donald Trump,Hamas,-1.8743701532891859,CENTCOM · tanker · oil tanker  ↔  Hezbollah · Benjamin Netanyahu · ballistic missile
+CENTCOM,Donald Trump,Vladimir Putin,-1.8743701532891859,CENTCOM · tanker · oil tanker  ↔  United Nations · European Union · Vladimir Putin
+CENTCOM,Donald Trump,Barack Obama,-1.8743701532891859,CENTCOM · tanker · oil tanker  ↔  Donald Trump · Strait of Hormuz · IRGC
+CENTCOM,Donald Trump,Shehbaz Sharif,-1.8743701532891859,CENTCOM · tanker · oil tanker  ↔  Marco Rubio · Abbas Araghchi · JD Vance
+CENTCOM,Donald Trump,Keir Starmer,-1.8743701532891859,CENTCOM · tanker · oil tanker  ↔  United Nations · European Union · Vladimir Putin
+CENTCOM,Donald Trump,Pete Hegseth,-1.8743701532891859,CENTCOM · tanker · oil tanker  ↔  Donald Trump · Strait of Hormuz · IRGC
+CENTCOM,Donald Trump,Xi,-1.8743701532891859,CENTCOM · tanker · oil tanker  ↔  United Nations · European Union · Vladimir Putin
+CENTCOM,Donald Trump,Financial Times,-1.8743701532891859,CENTCOM · tanker · oil tanker  ↔  Donald Trump · Strait of Hormuz · IRGC
+CENTCOM,Donald Trump,Oval Office,-1.8743701532891859,CENTCOM · tanker · oil tanker  ↔  Donald Trump · Strait of Hormuz · IRGC
+CENTCOM,Donald Trump,Steve Witkoff,-1.8743701532891859,CENTCOM · tanker · oil tanker  ↔  Marco Rubio · Abbas Araghchi · JD Vance
+CENTCOM,Donald Trump,Senate,-1.8743701532891859,CENTCOM · tanker · oil tanker  ↔  Donald Trump · Strait of Hormuz · IRGC
+CENTCOM,Donald Trump,CBS,-1.8743701532891859,CENTCOM · tanker · oil tanker  ↔  Donald Trump · Strait of Hormuz · IRGC
+CENTCOM,Donald Trump,Xi Jinping,-1.8743701532891859,CENTCOM · tanker · oil tanker  ↔  United Nations · European Union · Vladimir Putin
+CENTCOM,Donald Trump,Joe Biden,-1.8743701532891859,CENTCOM · tanker · oil tanker  ↔  Donald Trump · Strait of Hormuz · IRGC
+CENTCOM,Donald Trump,House,-1.8743701532891859,CENTCOM · tanker · oil tanker  ↔  Donald Trump · Strait of Hormuz · IRGC
+CENTCOM,Donald Trump,Keir,-1.8743701532891859,CENTCOM · tanker · oil tanker  ↔  United Nations · European Union · Vladimir Putin
+CENTCOM,Donald Trump,Iranian Foreign Ministry,-1.8743701532891859,CENTCOM · tanker · oil tanker  ↔  Marco Rubio · Abbas Araghchi · JD Vance
+White House,Donald Trump,CENTCOM,-1.8743701532891859,Donald Trump · Strait of Hormuz · IRGC  ↔  CENTCOM · tanker · oil tanker
+United Nations,Donald Trump,Navy,-1.901911901578321,United Nations · European Union · Vladimir Putin  ↔  Donald Trump · Strait of Hormuz · IRGC
+Ali Khamenei,Donald Trump,United Nations,-1.901911901578321,Donald Trump · Strait of Hormuz · IRGC  ↔  United Nations · European Union · Vladimir Putin
+CENTCOM,Donald Trump,United Nations,-1.901911901578321,CENTCOM · tanker · oil tanker  ↔  United Nations · European Union · Vladimir Putin
+Benjamin Netanyahu,Donald Trump,United Nations,-1.901911901578321,Hezbollah · Benjamin Netanyahu · ballistic missile  ↔  United Nations · European Union · Vladimir Putin
+United Nations,Donald Trump,Financial Times,-1.901911901578321,United Nations · European Union · Vladimir Putin  ↔  Donald Trump · Strait of Hormuz · IRGC
+United Nations,Donald Trump,Iranian Foreign Ministry,-1.901911901578321,United Nations · European Union · Vladimir Putin  ↔  Marco Rubio · Abbas Araghchi · JD Vance
+United Nations,Donald Trump,Oval Office,-1.901911901578321,United Nations · European Union · Vladimir Putin  ↔  Donald Trump · Strait of Hormuz · IRGC
+United Nations,Donald Trump,Mojtaba Khamenei,-1.901911901578321,United Nations · European Union · Vladimir Putin  ↔  Donald Trump · Strait of Hormuz · IRGC
+United Nations,Donald Trump,Marco Rubio,-1.901911901578321,United Nations · European Union · Vladimir Putin  ↔  Marco Rubio · Abbas Araghchi · JD Vance
+IRGC,Donald Trump,United Nations,-1.901911901578321,Donald Trump · Strait of Hormuz · IRGC  ↔  United Nations · European Union · Vladimir Putin
+White House,Donald Trump,United Nations,-1.901911901578321,Donald Trump · Strait of Hormuz · IRGC  ↔  United Nations · European Union · Vladimir Putin
+United Nations,Donald Trump,Abbas Araghchi,-1.901911901578321,United Nations · European Union · Vladimir Putin  ↔  Marco Rubio · Abbas Araghchi · JD Vance
+United Nations,Donald Trump,NATO,-1.901911901578321,United Nations · European Union · Vladimir Putin  ↔  Marco Rubio · Abbas Araghchi · JD Vance
+United Nations,Donald Trump,Pentagon,-1.901911901578321,United Nations · European Union · Vladimir Putin  ↔  Donald Trump · Strait of Hormuz · IRGC
+United Nations,Donald Trump,Steve Witkoff,-1.901911901578321,United Nations · European Union · Vladimir Putin  ↔  Marco Rubio · Abbas Araghchi · JD Vance
+United Nations,Donald Trump,CBS,-1.901911901578321,United Nations · European Union · Vladimir Putin  ↔  Donald Trump · Strait of Hormuz · IRGC
+United Nations,Donald Trump,Hamas,-1.901911901578321,United Nations · European Union · Vladimir Putin  ↔  Hezbollah · Benjamin Netanyahu · ballistic missile
+United Nations,Donald Trump,Senate,-1.901911901578321,United Nations · European Union · Vladimir Putin  ↔  Donald Trump · Strait of Hormuz · IRGC
+United Nations,Donald Trump,Joe Biden,-1.901911901578321,United Nations · European Union · Vladimir Putin  ↔  Donald Trump · Strait of Hormuz · IRGC
+United Nations,Donald Trump,US Navy,-1.901911901578321,United Nations · European Union · Vladimir Putin  ↔  drone · US Navy · cruise missile
+United Nations,Donald Trump,Pete Hegseth,-1.901911901578321,United Nations · European Union · Vladimir Putin  ↔  Donald Trump · Strait of Hormuz · IRGC
+United Nations,Donald Trump,Khamenei,-1.901911901578321,United Nations · European Union · Vladimir Putin  ↔  Donald Trump · Strait of Hormuz · IRGC
+United Nations,Donald Trump,Congress,-1.901911901578321,United Nations · European Union · Vladimir Putin  ↔  Donald Trump · Strait of Hormuz · IRGC
+United Nations,Donald Trump,Barack Obama,-1.901911901578321,United Nations · European Union · Vladimir Putin  ↔  Donald Trump · Strait of Hormuz · IRGC
+United Nations,Donald Trump,Shehbaz Sharif,-1.901911901578321,United Nations · European Union · Vladimir Putin  ↔  Marco Rubio · Abbas Araghchi · JD Vance
+United Nations,Donald Trump,Mohammad Bagher Ghalibaf,-1.901911901578321,United Nations · European Union · Vladimir Putin  ↔  Donald Trump · Strait of Hormuz · IRGC
+United Nations,Donald Trump,Esmaeil Baghaei,-1.901911901578321,United Nations · European Union · Vladimir Putin  ↔  Marco Rubio · Abbas Araghchi · JD Vance
+United Nations,Donald Trump,House,-1.901911901578321,United Nations · European Union · Vladimir Putin  ↔  Donald Trump · Strait of Hormuz · IRGC
+United Nations,Donald Trump,JD Vance,-1.901911901578321,United Nations · European Union · Vladimir Putin  ↔  Marco Rubio · Abbas Araghchi · JD Vance
+Ali Khamenei,Donald Trump,European Union,-2.050382540889876,Donald Trump · Strait of Hormuz · IRGC  ↔  United Nations · European Union · Vladimir Putin
+Benjamin Netanyahu,Donald Trump,European Union,-2.050382540889876,Hezbollah · Benjamin Netanyahu · ballistic missile  ↔  United Nations · European Union · Vladimir Putin
+White House,Donald Trump,European Union,-2.050382540889876,Donald Trump · Strait of Hormuz · IRGC  ↔  United Nations · European Union · Vladimir Putin
+IRGC,Donald Trump,European Union,-2.050382540889876,Donald Trump · Strait of Hormuz · IRGC  ↔  United Nations · European Union · Vladimir Putin
+CENTCOM,Donald Trump,European Union,-2.050382540889876,CENTCOM · tanker · oil tanker  ↔  United Nations · European Union · Vladimir Putin
+European Union,Donald Trump,US Navy,-2.050382540889876,United Nations · European Union · Vladimir Putin  ↔  drone · US Navy · cruise missile
+European Union,Donald Trump,Joe Biden,-2.050382540889876,United Nations · European Union · Vladimir Putin  ↔  Donald Trump · Strait of Hormuz · IRGC
+European Union,Donald Trump,Senate,-2.050382540889876,United Nations · European Union · Vladimir Putin  ↔  Donald Trump · Strait of Hormuz · IRGC
+European Union,Donald Trump,Mohammad Bagher Ghalibaf,-2.050382540889876,United Nations · European Union · Vladimir Putin  ↔  Donald Trump · Strait of Hormuz · IRGC
+European Union,Donald Trump,Pete Hegseth,-2.050382540889876,United Nations · European Union · Vladimir Putin  ↔  Donald Trump · Strait of Hormuz · IRGC
+European Union,Donald Trump,Esmaeil Baghaei,-2.050382540889876,United Nations · European Union · Vladimir Putin  ↔  Marco Rubio · Abbas Araghchi · JD Vance
+European Union,Donald Trump,JD Vance,-2.050382540889876,United Nations · European Union · Vladimir Putin  ↔  Marco Rubio · Abbas Araghchi · JD Vance
+European Union,Donald Trump,IAEA,-2.050382540889876,United Nations · European Union · Vladimir Putin  ↔  IAEA · Natanz · Isfahan
+European Union,Donald Trump,House,-2.050382540889876,United Nations · European Union · Vladimir Putin  ↔  Donald Trump · Strait of Hormuz · IRGC
+European Union,Donald Trump,Iranian Foreign Ministry,-2.050382540889876,United Nations · European Union · Vladimir Putin  ↔  Marco Rubio · Abbas Araghchi · JD Vance
+European Union,Donald Trump,Financial Times,-2.050382540889876,United Nations · European Union · Vladimir Putin  ↔  Donald Trump · Strait of Hormuz · IRGC
+European Union,Donald Trump,Oval Office,-2.050382540889876,United Nations · European Union · Vladimir Putin  ↔  Donald Trump · Strait of Hormuz · IRGC
+European Union,Donald Trump,Navy,-2.050382540889876,United Nations · European Union · Vladimir Putin  ↔  Donald Trump · Strait of Hormuz · IRGC
+European Union,Donald Trump,Hamas,-2.050382540889876,United Nations · European Union · Vladimir Putin  ↔  Hezbollah · Benjamin Netanyahu · ballistic missile
+European Union,Donald Trump,Congress,-2.050382540889876,United Nations · European Union · Vladimir Putin  ↔  Donald Trump · Strait of Hormuz · IRGC
+European Union,Donald Trump,Khamenei,-2.050382540889876,United Nations · European Union · Vladimir Putin  ↔  Donald Trump · Strait of Hormuz · IRGC
+European Union,Donald Trump,NATO,-2.050382540889876,United Nations · European Union · Vladimir Putin  ↔  Marco Rubio · Abbas Araghchi · JD Vance
+European Union,Donald Trump,Barack Obama,-2.050382540889876,United Nations · European Union · Vladimir Putin  ↔  Donald Trump · Strait of Hormuz · IRGC
+European Union,Donald Trump,Shehbaz Sharif,-2.050382540889876,United Nations · European Union · Vladimir Putin  ↔  Marco Rubio · Abbas Araghchi · JD Vance
+European Union,Donald Trump,CBS,-2.050382540889876,United Nations · European Union · Vladimir Putin  ↔  Donald Trump · Strait of Hormuz · IRGC
+European Union,Donald Trump,Steve Witkoff,-2.050382540889876,United Nations · European Union · Vladimir Putin  ↔  Marco Rubio · Abbas Araghchi · JD Vance
+Hezbollah,Donald Trump,European Union,-2.050382540889876,Hezbollah · Benjamin Netanyahu · ballistic missile  ↔  United Nations · European Union · Vladimir Putin
+Marco Rubio,Donald Trump,European Union,-2.050382540889876,Marco Rubio · Abbas Araghchi · JD Vance  ↔  United Nations · European Union · Vladimir Putin
+European Union,Donald Trump,Pentagon,-2.050382540889876,United Nations · European Union · Vladimir Putin  ↔  Donald Trump · Strait of Hormuz · IRGC
+Mojtaba Khamenei,Donald Trump,European Union,-2.050382540889876,Donald Trump · Strait of Hormuz · IRGC  ↔  United Nations · European Union · Vladimir Putin
+Abbas Araghchi,Donald Trump,European Union,-2.050382540889876,Marco Rubio · Abbas Araghchi · JD Vance  ↔  United Nations · European Union · Vladimir Putin
