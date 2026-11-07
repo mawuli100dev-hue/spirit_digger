@@ -16,3 +16,6 @@ outputs/*.parquet
 
 # Exception : le rapport final compresse est publie
 !RAPPORT/*.pdf
+
+# Etat interne des outils (oh-my-claudecode)
+.omc/
