@@ -1,0 +1,243 @@
+SPIRIT DIGGER v1.0 · ÉLÉMENTS À INTÉGRER AU CV ET AUX LETTRES DE MOTIVATION
+===========================================================================
+
+À l'attention de l'IA qui gère les CV et lettres de motivation.
+
+Ce document décrit un projet terminé en octobre 2026 et propose les ajouts correspondants,
+au format des fichiers existants :
+  - experiences.json        → partie 2 (une nouvelle expérience + un ajout à une expérience existante)
+  - competences_pool.json   → partie 3 (une nouvelle section « domaine » + des éléments dans des sections existantes)
+La partie 4 donne la matière pour les lettres de motivation, la partie 5 les garde-fous.
+Tous les chiffres ci-dessous sont vérifiés : ils proviennent des résultats réels du projet.
+Ne pas les arrondir à la hausse ni en inventer d'autres.
+
+
+---------------------------------------------------------------------------
+1. LE PROJET EN BREF
+---------------------------------------------------------------------------
+
+Titre : Spirit Digger v1.0 · Extraction de renseignement sur sources ouvertes (OSINT) par NLP
+Nature : projet personnel, développement indépendant
+Période : octobre 2026 (10/2026)
+Lien : https://github.com/mawuli100dev-hue/spirit_digger
+       (à n'utiliser que si le dépôt est public au moment de la candidature)
+
+Résumé :
+Chaîne de traitement Python qui automatise le cycle du renseignement sur des textes en sources
+ouvertes : collecte, nettoyage, extraction d'entités, détection d'alertes, graphe de relations,
+analyse des narratifs, cotation de la fiabilité et rédaction d'un bulletin. Elle analyse
+382 000 messages Telegram (guerre en Ukraine, 2022-2023, en russe, ukrainien et anglais) et
+2 236 articles de presse (crise Iran - États-Unis, 2026). Le projet est relié au projet de
+télédétection existant « Agent IA de Reconnaissance Spatiale » (God's Eye) : une alerte textuelle
+génère une demande d'observation satellite.
+
+Résultats clés :
+  - Alerte précoce non supervisée : 17 des 21 événements majeurs de référence détectés,
+    sans aucun mot-clé fourni, au plus 1 jour après les faits.
+    Exemple : barrage de Kakhovka, 6 juin 2023, mot passé de 0 à 446 messages par jour,
+    repris par les 5 camps de sources, score d'alerte 355.
+  - Extraction d'entités : 82 192 mentions extraites, 10 986 entités distinctes ;
+    50 personnes réunifiées malgré des orthographes différentes (translittération).
+  - Graphe de relations : 386 acteurs, 8 sous-théâtres détectés sans supervision,
+    537 liens indirects (« liens cachés »), chacun justifié par sa phrase source.
+  - Détecteur de propagande (3 classes) : 91 % d'exactitude en test, mais 22 % de faux positifs
+    sur la presse de 2026. Le projet démontre et documente cette limite (dérive temporelle).
+  - Qualité des données : 2 jeux de données synthétiques démasqués ; fuite de données réduite
+    de 31 % à 0,2 % dans le jeu d'entraînement.
+  - Cotation : 210 alertes cotées selon le code de l'Amirauté (grille OTAN), dont 128 en B1.
+  - Boucle texte / image : demande d'observation satellite au format JSON vers le projet God's Eye,
+    qui confirme la destruction du barrage de Kakhovka sur des images Google Earth avant / après.
+
+Outils réellement utilisés :
+  Python, pandas, NumPy, PyArrow (format Parquet), spaCy (modèle pré-entraîné + EntityRuler),
+  scikit-learn (TF-IDF, régression logistique), NetworkX (Louvain, PMI, plus courts chemins),
+  PyVis, Matplotlib, feedparser (flux RSS), Jupyter (7 notebooks), Git.
+  Le tout s'exécute sur processeur, sans GPU, en une vingtaine de minutes.
+
+
+---------------------------------------------------------------------------
+2. AJOUTS À experiences.json
+---------------------------------------------------------------------------
+
+2.1 Nouvelle expérience (à placer en tête de liste, c'est la plus récente)
+
+  {
+    "id": "spirit_digger_osint_nlp",
+    "toujours_inclure": false,
+    "start_date": "2026-10",
+    "titre": "Spirit Digger - Extraction de renseignement sur sources ouvertes (OSINT) par NLP",
+    "sous_titre": "Projet personnel de NLP et d'analyse du renseignement",
+    "structure": "Développement indépendant",
+    "periode": "10/2026",
+    "tags": [
+      "nlp",
+      "traitement automatique du langage",
+      "osint",
+      "renseignement",
+      "sources ouvertes",
+      "veille",
+      "extraction d'entités",
+      "ner",
+      "spacy",
+      "détection d'anomalies",
+      "alerte précoce",
+      "signaux faibles",
+      "analyse de réseaux",
+      "graphe",
+      "networkx",
+      "désinformation",
+      "guerre de l'information",
+      "scikit-learn",
+      "python",
+      "multilingue",
+      "défense"
+    ],
+    "bullets": [
+      "Développement d'une **chaîne de traitement NLP** en Python analysant 382 000 messages Telegram en russe et en ukrainien et 2 236 articles de presse : collecte, nettoyage, extraction d'entités, alertes, graphe de relations et bulletin de renseignement",
+      "Conception d'un **système d'alerte précoce non supervisé** (rupture statistique de vocabulaire et convergence de 5 camps de sources) : 17 des 21 événements majeurs de la guerre en Ukraine détectés sans mot-clé, au plus 1 jour après les faits",
+      "**Extraction d'entités nommées** avec spaCy enrichie d'un lexique militaire, et **graphe de relations** NetworkX (Louvain, PMI) révélant 8 sous-théâtres et des liens indirects sourcés phrase par phrase",
+      "Évaluation critique d'un **détecteur de propagande** (TF-IDF, régression logistique) : 91 % en test mais 22 % de faux positifs en conditions réelles, et cotation des alertes selon le **code de l'Amirauté (OTAN)** : https://github.com/mawuli100dev-hue/spirit_digger",
+      "Interconnexion avec un projet de télédétection YOLOv8, God'Eye: génération automatique de **demandes d'observation satellite** (JSON) à partir des alertes textuelles, confirmant la destruction du barrage de Kakhovka"
+    ]
+  }
+
+  
+2.2 Ajout à l'expérience existante "agent_ia_reconnaissance_spatiale"
+
+  Ce projet a été amélioré en octobre 2026 (version 2). Bullet à ajouter, ou à substituer
+  au 3e bullet si la place manque :
+      "Version 2 : **analyse spatiale des transformations** (appariement des objets T0/T1 par recouvrement, verdicts disparu, transformation plausible ou incohérence du modèle), testée sur le barrage de Kakhovka à partir d'images Google Earth"
+  Tags à ajouter : "analyse de changements", "fusion de données", "geoint"
+
+
+---------------------------------------------------------------------------
+3. AJOUTS À competences_pool.json
+---------------------------------------------------------------------------
+
+3.1 Nouvelle section « domaine » (à insérer dans "sections", par exemple après "dom_ia")
+
+  À retenir quand l'offre parle de renseignement, d'OSINT, de veille, de défense, de lutte
+  informationnelle, de traitement du langage ou d'analyse de textes.
+
+  {
+    "id": "dom_osint",
+    "titre": "Renseignement OSINT & NLP",
+    "type": "domaine",
+    "affichage": "puces",
+    "slots_total": 3,
+    "seuil_affichage": 4,
+    "swappable": [
+      {
+        "id": "osint_chaine",
+        "item": "Chaîne de renseignement automatisée : collecte, exploitation, recoupement, bulletin",
+        "tags": ["osint", "renseignement", "sources ouvertes", "veille stratégique", "veille", "cycle du renseignement", "analyste renseignement", "renseignement d'intérêt", "threat intelligence", "cti"]
+      },
+      {
+        "id": "osint_alertes",
+        "item": "Alerte précoce non supervisée sur 382 000 messages : 17 événements majeurs sur 21 détectés sans mot-clé",
+        "tags": ["alerte précoce", "early warning", "signaux faibles", "détection d'événements", "détection d'anomalies", "surveillance", "monitoring"]
+      },
+      {
+        "id": "osint_ner",
+        "item": "Extraction d'entités nommées (spaCy) et lexique métier : acteurs, forces, armements, sites",
+        "tags": ["ner", "entités nommées", "reconnaissance d'entités", "extraction d'information", "spacy", "text mining", "fouille de textes"]
+      },
+      {
+        "id": "osint_graphe",
+        "item": "Analyse de réseaux d'acteurs (NetworkX) : communautés, intermédiaires, liens cachés",
+        "tags": ["analyse de réseaux", "networkx", "graphe de connaissances", "link analysis", "louvain", "détection de communautés", "analyse relationnelle"]
+      },
+      {
+        "id": "osint_infowar",
+        "item": "Analyse des narratifs et détection de désinformation (log-odds ratio, TF-IDF)",
+        "tags": ["désinformation", "propagande", "guerre de l'information", "lutte informationnelle", "lutte contre les manipulations de l'information", "fake news", "narratifs", "influence", "fact-checking"]
+      },
+      {
+        "id": "osint_cotation",
+        "item": "Cotation de la fiabilité des sources (code de l'Amirauté, OTAN) et recoupement multi-sources",
+        "tags": ["fiabilité des sources", "recoupement", "vérification", "otan", "nato", "évaluation des sources", "crédibilité"]
+      },
+      {
+        "id": "osint_multilingue",
+        "item": "Corpus multilingues (russe, ukrainien, anglais) et translittération des noms propres",
+        "tags": ["multilingue", "russe", "ukrainien", "cyrillique", "translittération", "langues étrangères"]
+      }
+    ]
+  }
+
+3.2 Ajouts dans des sections existantes
+
+  Section "dom_ia" (Data Science & IA), nouveaux éléments "swappable" :
+      {
+        "id": "ia_ner_spacy",
+        "item": "NLP avec spaCy : extraction d'entités nommées, règles métier, découpage en phrases",
+        "tags": ["spacy", "ner", "entités nommées", "extraction d'information", "traitement automatique du langage"]
+      },
+      {
+        "id": "ia_evaluation_critique",
+        "item": "Évaluation critique de modèles : fuite de données, dérive temporelle, validation terrain",
+        "tags": ["data leakage", "fuite de données", "dérive", "drift", "robustesse", "validation de modèle", "évaluation de modèles", "biais"]
+      },
+      {
+        "id": "ia_anomalies_texte",
+        "item": "Détection d'anomalies non supervisée sur flux de textes (score z, convergence de sources)",
+        "tags": ["détection d'anomalies", "non supervisé", "apprentissage non supervisé", "signaux faibles", "séries temporelles"]
+      }
+
+  Section "dom_ia", mise à jour proposée de l'élément existant "ia_nlp"
+  (le projet élargit les compétences NLP déjà déclarées) :
+      ancien : "NLP : tokenisation, nettoyage et vectorisation de texte"
+      nouveau : "NLP : tokenisation, vectorisation TF-IDF, classification de textes, corpus multilingues"
+      tags à ajouter : "tf-idf", "classification de textes", "multilingue"
+
+  Section "dom_sig" (Télédétection & SIG), nouvel élément "swappable" :
+      {
+        "id": "sig_fusion_texte_image",
+        "item": "Fusion texte / imagerie : demandes d'observation satellite issues d'alertes textuelles",
+        "tags": ["fusion de données", "multi-capteurs", "geoint", "renseignement géospatial", "multi-int", "imagerie satellitaire"]
+      }
+
+  Section "dom_data_eng" (Data Engineering & Cloud), nouvel élément "swappable" :
+      {
+        "id": "de_data_lake_parquet",
+        "item": "Data lake local en Parquet (PyArrow) et chaîne d'ingestion reproductible",
+        "tags": ["parquet", "pyarrow", "data lake", "ingestion", "reproductibilité", "flux rss"]
+      }
+
+  Section "traitement" (Traitement de données), nouvel élément "swappable" :
+      {
+        "id": "td_nlp_libs",
+        "item": "spaCy, scikit-learn, NetworkX",
+        "tags": ["spacy", "scikit-learn", "sklearn", "networkx", "nlp", "analyse de réseaux"]
+      }
+
+  Section "atouts", nouvel élément "swappable" :
+      {
+        "id": "atout_esprit_critique",
+        "item": "Esprit critique sur la qualité des données et la fiabilité des sources",
+        "tags": ["esprit critique", "fiabilité", "qualité des données", "vérification", "rigueur scientifique", "renseignement"]
+      }
+
+  Section "bdd" : rien à ajouter. Le projet n'utilise pas Neo4j (graphe en mémoire avec NetworkX).
+
+
+
+
+---------------------------------------------------------------------------
+4. GARDE-FOUS : CE QU'IL NE FAUT PAS ÉCRIRE
+---------------------------------------------------------------------------
+
+  - Ne pas écrire que le système « prédit » des événements : il les détecte, le jour même ou le
+    lendemain.
+  - Ne pas écrire que le projet a entraîné un transformer, BERT ou un réseau de neurones : le modèle
+    spaCy est pré-entraîné et utilisé tel quel ; le seul modèle entraîné est une régression
+    logistique sur TF-IDF.
+  - Ne pas écrire « temps réel » : l'analyse porte sur des archives. Un collecteur RSS en direct
+    existe mais n'est pas branché en continu.
+  - Ne pas écrire Neo4j : le graphe est construit avec NetworkX.
+  - Ne pas écrire de traduction automatique : le russe est traité par racines de mots, sans
+    traduction.
+  - Ne pas présenter le projet comme une expérience professionnelle, ni comme un travail pour un
+    organisme de défense : c'est un projet personnel, réalisé sur des données publiques.
+  - Garder les chiffres exacts : 382 000 messages, 2 236 articles, 17 événements sur 21,
+    91 % / 22 %, 8 sous-théâtres, 128 alertes B1 sur 210.

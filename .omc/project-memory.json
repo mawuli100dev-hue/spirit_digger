@@ -1,0 +1,109 @@
+{
+  "version": "1.0.0",
+  "lastScanned": 1794050445907,
+  "projectRoot": "c:\\Users\\amavi\\projects-studio\\Extraction de renseignement (NLP) sur sources ouvertes (OSINT)",
+  "techStack": {
+    "languages": [
+      {
+        "name": "Python",
+        "version": null,
+        "confidence": "high",
+        "markers": [
+          "requirements.txt"
+        ]
+      }
+    ],
+    "frameworks": [],
+    "packageManager": "pip",
+    "runtime": null
+  },
+  "build": {
+    "buildCommand": null,
+    "testCommand": null,
+    "lintCommand": null,
+    "devCommand": null,
+    "scripts": {}
+  },
+  "conventions": {
+    "namingStyle": null,
+    "importStyle": null,
+    "testPattern": null,
+    "fileOrganization": null
+  },
+  "structure": {
+    "isMonorepo": false,
+    "workspaces": [],
+    "mainDirectories": [
+      "src"
+    ],
+    "gitBranches": null
+  },
+  "customNotes": [],
+  "directoryMap": {
+    "annexe": {
+      "path": "annexe",
+      "purpose": null,
+      "fileCount": 4,
+      "lastAccessed": 1794050445730,
+      "keyFiles": [
+        "competences_pool.json",
+        "experiences.json",
+        "post_linkedin_spirit_digger.txt",
+        "spirit_digger_pour_cv.txt"
+      ]
+    },
+    "data_lake": {
+      "path": "data_lake",
+      "purpose": null,
+      "fileCount": 0,
+      "lastAccessed": 1794050445732,
+      "keyFiles": []
+    },
+    "god_eye": {
+      "path": "god_eye",
+      "purpose": null,
+      "fileCount": 3,
+      "lastAccessed": 1794050445736,
+      "keyFiles": [
+        "detection-app.ipynb",
+        "detection-app_v2.ipynb",
+        "detection_par_image_satellitaire_compressed copy.pptx"
+      ]
+    },
+    "notebooks": {
+      "path": "notebooks",
+      "purpose": null,
+      "fileCount": 7,
+      "lastAccessed": 1794050445751,
+      "keyFiles": [
+        "00_reconnaissance_data_lake.ipynb",
+        "01_collecte_nettoyage.ipynb",
+        "02_scan_inventaire_ner.ipynb",
+        "03_alerte_precoce.ipynb",
+        "04_graphe_relations.ipynb"
+      ]
+    },
+    "outputs": {
+      "path": "outputs",
+      "purpose": null,
+      "fileCount": 28,
+      "lastAccessed": 1794050445759,
+      "keyFiles": [
+        "00_registre_sources.csv",
+        "02_rapport_inventaire.png",
+        "03_chronologie_alertes.png",
+        "04_graphe_arbre.html",
+        "04_graphe_arbre.png"
+      ]
+    },
+    "src": {
+      "path": "src",
+      "purpose": "Source code",
+      "fileCount": 0,
+      "lastAccessed": 1794050445761,
+      "keyFiles": []
+    }
+  },
+  "hotPaths": [],
+  "userDirectives": []
+}

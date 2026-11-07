@@ -1,0 +1,27 @@
+Je suis analyste dans une cellule de veille. 🕵️📡
+
+J'ai pour mission :
+🔎 Repérer qui agit, avec quels moyens et où, dans des milliers d'articles.
+🚨 Être alerté dès qu'un événement majeur éclate, sans savoir à l'avance quoi chercher.
+🗞️ Comparer comment chaque camp raconte un même événement.
+✅ Juger la fiabilité d'une information avant de la transmettre.
+
+Le problème : des centaines de milliers de messages, en plusieurs langues. Aucun analyste ne peut tout lire.
+
+Alors, à mon échelle, j'ai essayé d'imaginer l'outil qui l'aiderait : Spirit Digger, un projet de NLP sur sources ouvertes (OSINT). 🧠
+
+Je l'ai testé sur 382 000 messages Telegram de la guerre en Ukraine (en russe, ukrainien et anglais) et sur 2 200 articles de presse. Quelques résultats, tels quels :
+📍 Sans aucun mot-clé, il a retrouvé 17 des 21 grands événements que j'avais listés pour le tester (barrage de Kakhovka, pont de Crimée, mutinerie Wagner…), au plus un jour après les faits.
+🕸️ Il relie les acteurs cités ensemble et fait ressortir les grands fronts d'un conflit.
+⚖️ Il montre que deux camps ne racontent pas du tout la même histoire d'un même événement.
+
+Il a aussi ses limites, et j'ai tenu à les montrer : mon détecteur de propagande affichait 91 % de réussite en test… mais se trompait sur 22 % de la presse récente. Un bon score ne suffit pas : c'est surtout ça que je retiens.
+
+Le petit moment dont je suis fier 😄 : j'ai relié ce projet à God's Eye, mon précédent outil d'analyse d'images satellites. 🛰️ Spirit Digger a repéré dans les textes la destruction du barrage de Kakhovka. J'ai alors récupéré des images avant et après sur Google Earth, et God's Eye a détecté la disparition du barrage. Le texte détecte, l'image confirme. 👁️
+
+C'est un projet personnel, réalisé sur des données publiques, avec ses imperfections. Mais j'y ai beaucoup appris, et je continue de l'améliorer.
+
+📂 Le rapport, la présentation et la vidéo sont ici : https://drive.google.com/drive/folders/1EQN5EOG4IFW_QjQKD4Or6Sz6LZah15_z?usp=sharing
+
+
+#NLP #TraitementAutomatiqueDuLangage #OSINT #DataScience #IntelligenceArtificielle #MachineLearning #Python #spaCy #Renseignement #Défense #Désinformation #GuerreDeLInformation #AnalyseDeDonnées #GEOINT #Stage #Alternance
