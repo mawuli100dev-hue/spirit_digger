@@ -13,3 +13,6 @@ outputs/*.parquet
 
 # Documents lourds
 *.pdf
+
+# Exception : le rapport final compresse est publie
+!RAPPORT/*.pdf
